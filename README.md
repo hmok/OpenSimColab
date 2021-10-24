@@ -1,2 +1,2 @@
 # OpenColab
-Biomechanical modeling in Google Colab
+Biomechanical modeling in Google Colab using OpenSim
