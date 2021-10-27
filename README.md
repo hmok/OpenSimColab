@@ -23,7 +23,7 @@ We also created several 𝐯𝐢𝐝𝐞𝐨 𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥�
 The image below shows how we developed and validated OpenColab. As mentioned, the Conda package was developed to install OpenSim on Colab. For validation, we compared the GUI results (for Scaling, IK, ID, RRA, SO, and CMC) with OpenColab results. The outcomes matched very well. 
 
 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤𝐬:
-To download the latest Ipython notebook, please visit Github:
+To download the latest Ipython notebook (OpenColab.ipynb), please visit Github:
 https://github.com/hmok/OpenColab 
 
 𝐇𝐨𝐰 𝐭𝐨 𝐬𝐞𝐭 𝐮𝐩 𝐢𝐧 <𝟏𝐦𝐢𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧 𝐢𝐧𝐯𝐞𝐫𝐬𝐞 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 𝐢𝐧 𝐎𝐩𝐞𝐧𝐂𝐨𝐥𝐚𝐛?
