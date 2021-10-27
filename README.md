@@ -13,6 +13,16 @@ If you are new to modeling, or even an expert in computational and human/animal 
 
 In this project, we use Google Cloud (esp. Google Colab notebooks) and 𝐢𝐧𝐬𝐭𝐚𝐥𝐥 𝐎𝐩𝐞𝐧𝐒𝐢𝐦 via Anaconda Cloud easily (<𝟕𝐦𝐢𝐧) so that we can use it without any issue at any computer, collaborate with others and share models fast without even a need to install OpenSim on your computer. 𝒀𝒐𝒖 𝒋𝒖𝒔𝒕 𝒏𝒆𝒆𝒅 𝒕𝒐 𝒉𝒂𝒗𝒆 𝒂𝒄𝒄𝒆𝒔𝒔 𝒕𝒐 𝒕𝒉𝒆 𝒊𝒏𝒕𝒆𝒓𝒏𝒆𝒕 𝒂𝒏𝒅 𝑮𝒎𝒂𝒊𝒍 𝒂𝒄𝒄𝒐𝒖𝒏𝒕. The 𝐢𝐧𝐢𝐭𝐢𝐚𝐥 𝐬𝐞𝐭𝐮𝐩 𝐰𝐨𝐮𝐥𝐝 𝐭𝐚𝐤𝐞 <𝟏 𝐦𝐢𝐧. 
 
+𝐇𝐨𝐰 𝐭𝐨 𝐬𝐞𝐭 𝐮𝐩 𝐢𝐧 <𝟏𝐦𝐢𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧 𝐢𝐧𝐯𝐞𝐫𝐬𝐞 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 𝐢𝐧 𝐎𝐩𝐞𝐧𝐂𝐨𝐥𝐚𝐛?
+Please follow the following steps to start running OpenSim simulations in < 1 min.
+Go to this website: https://colab.research.google.com/
+
+a) Upload the following file from Supplementary Material 2: “OpenColab.ipynb“ or from this link https://github.com/hmok/OpenColab/blob/main/OpenColab.ipynb
+b) Wait till the file is loaded.
+c) Press Ctrl+F9 or Runtime ---> Run all (setup finished in < 1 min)
+d) No action needed by the user: OpenSim will be installed (5-7 min)
+e) The simulations will generate the results of this paper.
+
 That is it! Enjoy OpenColabing!
 
 We also created several 𝐯𝐢𝐝𝐞𝐨 𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬 to learn Google Colab (basic python programming on the web) and OpenColab (𝐎𝐩𝐞𝐧𝐒𝐢𝐦 + 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐨𝐥𝐚𝐛): www.tinyurl.com/xukhmnez   
