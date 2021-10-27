@@ -1,0 +1,1762 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="57cm" height="40cm">
+  <g>
+    <g class="main-svg" transform="translate(100, 0) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-d03828">
+        <g class="clips">
+          <clipPath id="clipd03828xyplot" class="plotclip">
+            <rect width="499" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipd03828x">
+            <rect x="121" y="0" width="499" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipd03828y">
+            <rect x="0" y="100" width="700" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipd03828xy">
+            <rect x="121" y="100" width="499" height="320"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(121,100)" clip-path="url('#clipd03828xyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter tracef7d10c" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,158.92L-202.35,150.75L-195.47,146.81L-134.77,88.83L-128.29,83.69L-94.3,60.31L-87.82,57.76L-74.06,54.16L-67.59,53.38L-47.35,55.61L-40.47,57.08L-20.24,60.95L-13.36,61.21L0,60.34L6.88,58.81L33.59,51.78L40.47,51.6L60.71,55.01L67.59,56.71L80.94,61.71L87.82,65.51L108.06,78.39L114.53,82.88L134.77,97.05L141.65,100L148.53,103.27L155,108.15L175.24,118.94L182.12,122.91L195.47,129.36L202.35,132.97L222.59,143.19L229.47,146.93L242.82,153.3L249.7,155.64L256.18,157.55L263.06,158.62L269.94,158.88L276.41,157.74L283.29,156.98L290.17,155.43L303.53,149.5L310.41,144.33L344,108.59L350.88,102.59L371.11,85.15L377.59,80.07L384.47,74.21L391.35,70.12L397.82,65.89L404.7,62.49L418.06,55.9L424.94,53.73L445.17,52.15L452.05,53.55L465.41,56.01L472.29,57.72L478.76,59.27L485.64,60.04L499,60.18L505.88,58.69L533,52.93L539.47,52.45L573.47,58.18L579.94,60.97L600.18,72.81L607.06,77.58L640.65,101.92L647.53,105.11L694.88,131.55L701.35,134.76L748.7,160.51L755.58,160.84L768.94,159.72" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace6477b4" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,62.91L-215.71,57.72L-209.23,58.35L-182.12,66.34L-175.24,69.88L-108.06,108.74L-101.18,111.79L-60.71,134.54L-53.83,137.42L-33.59,147.84L-27.12,150.86L-13.36,156.88L-6.88,158.37L0,160.64L6.88,161.98L20.24,163.26L27.12,163.02L40.47,161.37L47.35,158.75L60.71,146.17L67.59,137.51L80.94,119.68L87.82,111.95L101.18,98.33L108.06,92.52L114.53,86.41L121.41,81.36L141.65,67.12L148.53,62.85L168.76,56.84L175.24,55.7L195.47,55.64L202.35,56.12L215.71,57.67L222.59,59.44L235.94,61.9L242.82,62.23L263.06,61.31L269.94,59.96L283.29,57.58L290.17,57.56L296.65,58.1L303.53,59.93L316.88,64.39L323.76,66.82L350.88,82.76L357.35,87.66L371.11,95.91L377.59,100.54L384.47,103.99L391.35,108.29L411.58,119.9L418.06,122.62L452.05,139.46L458.53,142.91L485.64,157.06L492.52,159.59L499,162.02L505.88,163.57L519.24,165.29L526.12,164.98L539.47,162.99L546.35,159.97L559.71,146.32L566.59,137.52L586.82,110.64L593.7,103.36L613.94,84.2L620.41,78.48L647.53,59.6L654.41,57.04L674.64,52.28L681.12,51.8L721.59,61L728.47,62.85L741.82,64.33L748.7,63.94L768.94,58.15" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter tracebf1c2b" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,157.06L-202.35,150.21L-195.47,146.49L-128.29,83.7L-121.41,78.53L-101.18,63.28L-94.3,60.05L-74.06,53.77L-67.59,52.95L-47.35,54.91L-40.47,56.2L-20.24,59.68L-13.36,59.86L0,58.86L6.88,57.26L33.59,50.23L40.47,50.13L53.83,52.01L60.71,54L67.59,55.88L74.06,58.43L80.94,61.3L87.82,65.19L108.06,78.17L114.53,82.66L134.77,96.74L141.65,99.7L148.53,103.08L155,107.83L175.24,118.76L182.12,122.76L222.59,142L229.47,145.38L242.82,151.32L249.7,153.57L256.18,155.5L263.06,156.67L269.94,157.1L276.41,156.21L290.17,154.48L296.65,152.11L303.53,149.07L310.41,144.16L350.88,102.73L357.35,96.79L371.11,85.15L377.59,80L384.47,74.09L391.35,69.95L397.82,65.66L404.7,62.19L418.06,55.44L424.94,53.32L445.17,51.55L452.05,52.84L465.41,54.92L472.29,56.45L478.76,57.9L485.64,58.6L499,58.63L505.88,57.09L533,51.31L539.47,50.89L566.59,55.69L573.47,57.58L593.7,68.36L600.18,72.53L660.88,112.9L667.76,116.56L741.82,156.46L748.7,158.33L768.94,158.08" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter traceb1ce02" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,59.3L-215.71,54.25L-209.23,55.05L-182.12,63.6L-175.24,67.11L-114.53,101.4L-108.06,104.8L-94.3,111.52L-87.82,115.67L-20.24,149.33L-13.36,152L-6.88,153.37L0,155.67L13.36,157.83L20.24,158.25L33.59,157.62L40.47,156.97L47.35,154.81L53.83,149.85L60.71,143.88L67.59,136.03L80.94,119.41L87.82,111.98L101.18,98.65L108.06,92.87L114.53,86.82L121.41,81.78L141.65,67.43L148.53,63.2L161.88,58.43L168.76,56.74L175.24,55.46L182.12,55.1L195.47,54.6L202.35,54.63L215.71,55.25L222.59,56.58L242.82,58.77L249.7,58.53L263.06,57.55L269.94,56.17L283.29,53.96L290.17,54.13L296.65,54.85L303.53,56.89L323.76,64.17L330.64,67.99L350.88,79.78L357.35,84.52L371.11,92.42L377.59,96.85L391.35,104.26L397.82,107.83L411.58,115.43L418.06,117.97L472.29,145.29L478.76,149.02L492.52,154.56L499,156.92L512.76,159.7L519.24,160.3L539.47,158.7L546.35,156.21L559.71,144.16L566.59,136.18L593.7,103.55L600.18,96.48L634.17,68.32L640.65,64.43L660.88,54.42L667.76,52.41L701.35,53.5L708.23,54.95L748.7,60.37L755.58,58.92L768.94,54.4" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M120,420.5H620"/>
+          <path class="ylines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M120.5,100V420"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(121,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(370.7,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(121,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(370.7,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,402)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,352.66999999999996)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,303.33000000000004)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,254)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,204.67000000000002)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,155.32999999999998)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,106)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,402)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;80</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,352.66999999999996)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;60</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,303.33000000000004)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;40</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,254)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,204.67000000000002)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,155.32999999999998)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,106)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">40</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-d03828">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M456.9,420L456.9,100" clip-path="url('#clipd03828x')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle"/>
+        <g class="g-ytitle" transform="translate(12.3154296875,0)">
+          <text class="ytitle" transform="rotate(-90,11.684375000000003,260)" x="11.684375000000003" y="260" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">hip flexion (deg)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,456.9,84.5)">
+            <g class="cursor-pointer" transform="translate(426,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,337)">
+            <g class="cursor-pointer" transform="translate(-41,318)">
+              <rect class="bg" x="0.5" y="0.5" width="165" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="83.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">extension</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,254L61,352.66999999999996" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 96.07px, 98.67px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,350.07000732421875)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,139.67000000000002)">
+            <g class="cursor-pointer" transform="translate(-23,121)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">flexion</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,204.67000000000002L61,106" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 96.07px, 98.67px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,108.5999984741211)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="main-svg" transform="translate(800, 0) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-9da4a3">
+        <g class="clips">
+          <clipPath id="clip9da4a3xyplot" class="plotclip">
+            <rect width="484" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip9da4a3x">
+            <rect x="136" y="0" width="484" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip9da4a3y">
+            <rect x="0" y="100" width="700" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip9da4a3xy">
+            <rect x="136" y="100" width="484" height="320"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(136,100)" clip-path="url('#clip9da4a3xyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter tracecdc5d7" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-229.59,98.72L-223.38,95.77L-217.18,77.98L-204.77,37.27L-198.56,36.4L-192.36,41.04L-186.15,53.13L-161.33,92.71L-155.13,108.33L-148.92,112.64L-142.72,111.22L-124.1,102.07L-117.9,102.87L-93.08,110.05L-86.87,110.07L-74.46,107.76L-68.26,105.38L-55.85,102.52L-49.64,107.83L-37.23,126.56L-31.03,125.71L-24.82,128.24L-18.62,140.18L-12.41,146.26L-6.21,145.26L0,138.38L6.21,123.74L12.41,132.3L18.62,177.97L24.82,204.93L31.03,187.33L37.23,182.56L43.44,187.49L49.64,195.43L55.85,211.54L62.05,223.59L68.26,231.51L74.46,226.12L80.67,218.52L86.87,211.37L93.08,198.28L105.49,172.16L111.69,162.72L117.9,158.55L124.1,156.88L130.31,156.07L136.51,151.3L142.72,147.2L148.92,148.16L155.13,147.35L161.33,141.14L167.54,137.45L173.74,137.37L186.15,135.45L192.36,133.39L198.56,126.83L204.77,117.61L210.97,114.99L217.18,114.51L223.38,110.92L229.59,110.98L235.79,110.04L242,101.91L248.21,91L254.41,77.8L260.62,69.03L266.82,64.61L273.03,49.67L279.23,39.61L291.64,35.49L297.85,48.95L310.26,73.77L316.46,83.34L322.67,94.92L328.87,108.99L335.08,111.33L341.28,109.1L347.49,105.81L353.69,103.53L359.9,102.82L366.1,103.32L390.92,107.39L397.13,107.41L415.74,105.48L421.95,106.49L428.15,112.22L434.36,120.75L440.56,130.43L446.77,130.02L452.97,131.46L459.18,144.28L465.38,151.12L471.59,150.2L477.79,142.36L484,129.25L490.21,136.63L496.41,177.37L502.62,194.61L508.82,173.33L515.03,170.7L521.23,182.17L527.44,195.74L533.64,215.03L539.85,227.38L546.05,231.61L552.26,227.86L558.46,219.82L564.67,212.23L570.87,200.4L583.28,171.86L589.49,160.63L595.69,152.15L601.9,149.14L614.31,140.6L620.51,137.06L632.92,127.63L639.13,127.29L670.15,118.82L676.36,113.56L694.97,97.13L701.18,89.6L719.79,71.27L726,72.36L738.41,105.78" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace84ff21" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-229.59,121.98L-223.38,174.82L-217.18,180.03L-210.97,154.51L-204.77,163.4L-192.36,200.1L-186.15,209.09L-173.74,208.73L-167.54,202.82L-148.92,175.6L-142.72,166.64L-130.31,152.66L-124.1,150.35L-105.49,147.38L-99.28,143.48L-86.87,133.9L-80.67,130.72L-74.46,128.23L-68.26,127.89L-49.64,123.25L-43.44,119.98L-31.03,113.82L-24.82,106.81L-18.62,97.34L-12.41,94.43L-6.21,93.37L0,87.18L6.21,77.63L12.41,63.56L18.62,52.25L24.82,48.7L37.23,29.28L43.44,21.69L49.64,22.89L55.85,36.06L68.26,68.98L74.46,74.99L80.67,87.03L86.87,106.38L93.08,114L99.28,114.2L111.69,107.22L117.9,104.91L124.1,104.76L130.31,106.22L142.72,109.32L148.92,109.39L155.13,108.19L161.33,105.69L173.74,99.92L179.95,98.82L186.15,102.91L192.36,110.69L198.56,120.8L204.77,126.72L210.97,130.62L217.18,143.76L223.38,157.39L229.59,164.84L235.79,164.29L242,155.99L248.21,138.6L254.41,142.71L260.62,181.14L266.82,199.32L273.03,167.73L279.23,157.87L285.44,173.82L291.64,183.15L297.85,195.67L304.05,201.86L310.26,204.91L316.46,201.23L328.87,182.42L335.08,169.67L341.28,159.43L347.49,152.18L359.9,140.6L366.1,135.78L372.31,130.53L378.51,127.59L384.72,126.85L390.92,123.33L397.13,120.68L403.33,117.12L409.54,116.04L415.74,117.34L421.95,117.3L428.15,115.67L434.36,112.3L440.56,107.94L446.77,100.93L452.97,96.44L459.18,94.38L465.38,88.92L477.79,73.07L484,61.84L490.21,49.19L496.41,41.99L502.62,33.74L508.82,21.55L515.03,17.01L521.23,16L527.44,21.51L533.64,35.09L539.85,52.31L546.05,63.62L552.26,70.44L558.46,81.45L564.67,100.82L570.87,106.81L583.28,108.78L589.49,108.42L608.1,111.37L614.31,112.67L632.92,111.73L639.13,108.85L657.74,101.21L663.95,108.29L676.36,132.8L682.56,133.87L701.18,167.7L707.38,167.49L713.59,158.61L719.79,140.43L726,154.41L732.21,193.92L738.41,183.99" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace89c43a" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-229.59,98.41L-223.38,95.23L-217.18,77.03L-204.77,35.61L-198.56,33.73L-192.36,38.08L-186.15,50.16L-161.33,91.67L-155.13,107.74L-148.92,112.41L-142.72,111.31L-124.1,102.79L-117.9,103.66L-93.08,110.97L-86.87,111.02L-74.46,108.72L-68.26,106.27L-55.85,103.27L-49.64,108.18L-37.23,126.58L-31.03,127.32L-24.82,128.37L-18.62,138.98L-12.41,144.61L-6.21,143.4L0,136.59L6.21,122.25L12.41,131.3L18.62,177.65L24.82,205.34L31.03,188.68L37.23,184.33L43.44,189.05L49.64,196.71L55.85,212.4L62.05,224.27L68.26,231.86L74.46,226.06L80.67,218.09L86.87,210.69L93.08,197.43L105.49,171.01L111.69,161.51L117.9,157.21L124.1,155.45L130.31,154.58L136.51,149.8L142.72,145.71L148.92,146.69L155.13,145.89L161.33,139.65L167.54,135.84L173.74,135.58L186.15,133.4L192.36,131.38L198.56,125.01L204.77,116.03L210.97,113.63L217.18,113.26L223.38,109.68L229.59,109.75L235.79,108.88L242,100.89L248.21,90.09L254.41,76.88L260.62,67.9L266.82,63.58L273.03,48.39L279.23,37.96L291.64,32.36L297.85,45.98L310.26,71.91L316.46,81.9L322.67,93.95L328.87,108.56L335.08,111.41L341.28,109.66L353.69,104.6L359.9,103.9L372.31,105.36L378.51,106.55L390.92,108.17L397.13,108.2L415.74,106.28L421.95,107.32L428.15,112.7L434.36,121.06L440.56,130.54L446.77,131.79L452.97,132.4L459.18,143.22L465.38,149.63L471.59,148.51L477.79,140.71L484,127.86L490.21,135.69L496.41,177.04L502.62,194.9L508.82,174.41L515.03,172.24L521.23,183.52L527.44,196.84L533.64,215.72L539.85,228L546.05,232.03L552.26,227.99L558.46,219.65L564.67,211.82L570.87,199.78L583.28,170.82L589.49,159.37L595.69,150.85L601.9,147.75L614.31,139.14L620.51,135.64L639.13,125.84L645.33,124.61L670.15,117.18L676.36,112.15L688.77,103.29L694.97,95.87L719.79,69.93L726,71.34L738.41,105.46" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace307b69" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-229.59,120.07L-223.38,174.16L-217.18,180.37L-210.97,155.89L-204.77,165.27L-192.36,199.9L-186.15,207.64L-173.74,205.81L-167.54,199.76L-148.92,173.3L-142.72,164.48L-130.31,150.41L-124.1,148.01L-105.49,145.44L-99.28,141.86L-80.67,129.69L-74.46,127.09L-62.05,124.3L-55.85,121.84L-49.64,121.24L-43.44,117.84L-31.03,111.29L-24.82,103.99L-18.62,94.21L-12.41,91.1L-6.21,90L0,83.97L6.21,74.79L12.41,61.27L18.62,50.58L24.82,47.55L31.03,37.96L37.23,30.72L43.44,24.9L49.64,23.41L55.85,31.34L62.05,46.36L68.26,63.68L74.46,70.84L80.67,83.07L86.87,102.8L93.08,111.12L99.28,112.29L117.9,105.49L124.1,105.49L142.72,109.39L148.92,109.19L155.13,107.82L161.33,105.25L173.74,99.87L179.95,99.3L186.15,102.99L192.36,110.99L204.77,132.22L210.97,135.39L217.18,143.07L223.38,155.64L229.59,162.33L235.79,161.36L242,152.98L248.21,135.85L254.41,140.57L260.62,179.77L266.82,198.67L273.03,167.88L279.23,159.39L285.44,174.91L291.64,183.18L297.85,194.54L304.05,199.79L310.26,202.19L316.46,198.16L322.67,188.5L328.87,179.41L335.08,166.89L341.28,156.87L347.49,149.8L359.9,138.53L366.1,133.9L372.31,128.88L378.51,126.14L384.72,125.62L390.92,122.28L397.13,119.76L403.33,116.15L409.54,114.88L415.74,115.88L421.95,115.5L428.15,113.61L434.36,110.08L440.56,105.63L446.77,98.51L452.97,93.86L459.18,91.61L465.38,86L477.79,70.25L484,59.31L490.21,47.05L496.41,40.23L502.62,32.29L508.82,20.39L515.03,18.97L521.23,19L527.44,19.5L533.64,30.25L539.85,46.81L546.05,58.46L552.26,66.1L558.46,77.37L564.67,97.27L570.87,104.02L583.28,108.09L589.49,108.6L626.72,112.88L632.92,111.32L657.74,101.56L663.95,108.61L682.56,140.68L688.77,145.89L701.18,165.03L707.38,163.76L713.59,154.23L719.79,135.73L726,149.66L732.21,189.4L738.41,180.3" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M135,420.5H620"/>
+          <path class="ylines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M135.5,100V420"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(136,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(378,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(136,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(378,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,413.38)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,373.53)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,333.69)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,293.84000000000003)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,254)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,214.16)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,174.31)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,134.47)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,413.38)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;100</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,373.53)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;80</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,333.69)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;60</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,293.84000000000003)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;40</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,254)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,214.16)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,174.31)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,134.47)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">40</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-9da4a3">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M460.99,420L460.99,100" clip-path="url('#clip9da4a3x')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle"/>
+        <g class="g-ytitle" transform="translate(11.7216796875,0)">
+          <text class="ytitle" transform="rotate(-90,12.278125000000003,260)" x="12.278125000000003" y="260" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">hip flex. moment (N.m)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,460.99,84.5)">
+            <g class="cursor-pointer" transform="translate(430,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,57,337)">
+            <g class="cursor-pointer" transform="translate(-26,318)">
+              <rect class="bg" x="0.5" y="0.5" width="165" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="83.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">extension</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M76,254L76,333.69" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 77.09px, 79.69px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(76,331.0899963378906)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,57,149.16)">
+            <g class="cursor-pointer" transform="translate(-8,130)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">flexion</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M76,214.16L76,134.47" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 77.09px, 79.69px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(76,137.07000732421875)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="main-svg" transform="translate(1500, 0) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-57559f">
+        <g class="clips">
+          <clipPath id="clip57559fxyplot" class="plotclip">
+            <rect width="499" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip57559fx">
+            <rect x="121" y="0" width="499" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip57559fy">
+            <rect x="0" y="100" width="700" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip57559fxy">
+            <rect x="121" y="100" width="499" height="320"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(121,100)" clip-path="url('#clip57559fxyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter tracebfd876" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-241.45,100.85L-229.78,84.47L-229.38,83.46L-219.32,58.4L-218.92,57.79L-211.27,54.43L-210.87,54.54L-202.82,59.2L-202.42,59.69L-170.22,105.61L-169.82,106.8L-160.57,124.94L-160.16,125.34L-152.11,128.77L-151.71,128.73L-140.44,124.43L-140.04,124.24L-124.35,119.47L-123.95,119.46L-112.28,121.55L-111.87,121.73L-99.4,129.95L-99,130.26L-86.92,136.89L-86.52,136.96L-79.68,135.84L-79.28,135.64L-70.42,129.37L-70.02,129.05L-59.96,123.02L-59.56,123.03L-54.33,124.77L-53.92,125.04L-48.29,130.8L-47.89,131.34L-40.24,140.93L-39.84,140.78L-35.41,140.39L-35.01,140.5L-31.39,142.87L-30.99,143.28L-29.38,146.37L-28.97,147.34L-22.13,161.3L-21.73,161.9L-17.3,166.38L-16.9,166.59L-13.28,167.36L-12.88,167.31L-8.85,165.72L-8.45,165.46L-4.02,161.45L-3.62,160.99L-1.21,157.48L-0.8,154.44L0.4,151.87L0.8,151.11L3.62,148.2L4.02,148.1L5.23,148.55L5.63,148.95L7.24,151.98L7.65,153.13L9.66,161.21L10.06,163.19L13.28,183.76L13.68,186.63L18.51,215.18L18.91,216.62L20.93,220.66L21.33,220.85L22.54,220.27L22.94,219.73L25.35,214.03L25.75,212.83L29.78,202.92L30.18,202.46L32.19,201.45L32.6,201.52L34.61,202.83L35.01,203.23L41.45,209.42L41.85,209.74L45.47,213.49L45.88,214.05L49.9,220.96L50.3,221.84L56.34,233.53L56.74,234.12L62.78,242.04L63.18,242.46L66,244.47L66.4,244.55L68.81,244.04L69.22,243.77L71.23,241.5L71.63,240.9L78.87,228.12L79.28,227.42L85.72,214.52L86.12,213.37L90.54,202.39L90.95,201.45L96.58,189.77L96.98,189.08L106.24,174.66L106.64,174.21L110.67,170.93L111.07,170.76L115.09,169.84L115.49,169.8L123.95,169.68L124.35,169.7L129.58,169.14L129.98,168.97L133.6,166.44L134.01,166.02L144.87,154.44L145.27,154.23L149.3,153.07L149.7,153.02L155.74,151.57L156.14,151.34L161.77,147.14L162.18,146.78L165.8,144.7L166.2,144.55L169.02,144.52L169.42,144.63L173.85,146.62L174.25,146.81L180.28,149.21L180.69,149.3L185.52,149.76L185.92,149.72L191.15,148.2L191.55,147.99L195.17,145.04L195.58,144.61L199.2,139.3L199.6,138.58L204.43,127.79L204.83,126.8L209.26,118.07L209.66,117.45L213.28,113.14L213.68,112.81L222.14,105.72L222.54,105.29L227.37,101.16L227.77,100.98L230.59,100.61L230.99,100.7L234.61,102.53L235.01,102.8L239.84,105.08L240.24,105.11L243.46,104.33L243.87,104.13L248.29,100.49L248.7,100.05L254.33,93.57L254.73,92.84L258.76,83.85L259.16,82.79L266,66.3L266.4,65.68L269.62,62.43L270.02,62.16L276.06,58.58L276.46,58.14L279.68,53.66L280.08,53.01L284.91,47.06L285.32,46.78L288.53,45.34L288.94,45.31L291.75,44.37L292.16,44.06L295.78,42.37L296.18,42.33L298.19,43.13L298.6,43.48L301.41,47.56L301.81,48.28L308.66,62.55L309.06,63.36L323.14,89.6L323.55,90.16L327.97,97.87L328.37,98.79L332.8,110.98L333.2,112.11L335.22,118.83L335.62,119.61L340.04,126.07L340.45,126.51L344.07,129.12L344.47,129.3L348.09,129.9L348.5,129.87L352.92,128.58L353.32,128.39L369.82,120.41L370.23,120.33L375.86,119.91L376.26,119.93L382.7,121.12L383.1,121.23L392.76,125.06L393.16,125.25L406.04,130.87L406.44,130.98L412.88,131.86L413.28,131.86L418.92,131.01L419.32,130.9L433.41,126.9L433.81,126.85L436.22,127.23L436.63,127.44L441.05,130.59L441.45,130.96L446.28,136.36L446.69,136.88L455.54,148.88L455.94,148.65L459.56,147.38L459.97,147.33L463.18,147.83L463.59,147.99L466,149.74L466.4,150.57L473.25,162.9L473.65,163.49L478.07,168.51L478.48,168.82L481.7,170.44L482.1,170.52L485.32,170.26L485.72,170.12L489.34,167.76L489.74,167.39L494.17,162.3L494.57,161.35L496.59,157.61L496.99,157.03L499.4,154.68L499.8,154.58L501.41,155.23L501.82,155.73L503.83,160.28L504.23,161.73L507.45,177.01L507.85,179.39L513.49,209.22L513.89,210.46L515.9,213.73L516.3,213.81L517.91,212.25L518.32,211.43L521.94,200.3L522.34,198.87L525.96,189.99L526.36,189.54L528.38,189.02L528.78,189.21L531.6,192.37L532,192.96L544.88,215.98L545.28,217.04L554.53,237.74L554.94,238.33L561.78,244.86L562.18,245.03L565.8,244.82L566.2,244.59L570.63,239.89L571.03,239.28L575.46,231.39L575.86,230.6L586.73,206.97L587.13,205.97L602.42,173.9L602.82,173.32L614.09,162.05L614.49,161.87L630.99,155.16L631.4,154.74L654.74,135.13L655.14,135.09L684.11,135.12L684.52,134.9L695.78,123.67L696.19,123.13L735.22,77.08L735.62,76.71L750.51,68.13L750.91,68.53L757.35,82.45L757.76,83.76L764.19,109.21L764.19,109.21" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter tracee1db90" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-241.45,131.96L-235.42,184.32L-235.01,186.72L-230.18,199.92L-228.98,199.02L-228.57,198.42L-221.73,187.62L-220.12,189.3L-219.72,190.06L-210.87,218.58L-210.47,219.54L-201.61,230.65L-201.21,230.96L-192.76,232.71L-192.36,232.55L-178.67,224.48L-178.27,223.85L-147.69,176.46L-147.29,176.08L-136.42,169.92L-136.02,169.84L-115.9,164.16L-115.49,163.87L-104.63,153.74L-104.23,153.33L-93.36,144.8L-92.96,144.65L-82.5,143.41L-82.09,143.5L-67.61,146.24L-67.2,146.08L-55.94,139.94L-55.53,139.53L-49.1,130.16L-48.69,129.45L-39.84,116.85L-39.44,116.56L-32.6,110.14L-32.19,109.62L-26.56,100.11L-26.16,99.5L-21.73,94.93L-21.33,94.76L-18.51,94.68L-18.11,94.81L-9.26,97.97L-8.85,97.88L-5.23,96.13L-4.83,95.78L1.21,89.81L1.61,89.18L4.83,82.83L5.23,81.8L9.66,68.31L10.06,66.98L15.29,52.02L15.69,51.26L18.51,47.66L18.91,47.38L25.75,43.57L26.16,43.11L32.19,34.87L32.6,34.27L39.44,25.89L39.84,25.53L43.06,23.5L43.46,23.47L45.47,24.27L45.88,24.68L47.89,27.97L48.29,28.86L53.92,41.17L54.33,42.06L59.56,55.92L59.96,57.13L66.8,75.29L67.2,75.97L72.03,81.83L72.44,82.35L76.06,88.35L76.46,89.29L80.08,100.12L80.48,101.53L88.13,126.95L88.53,127.72L92.56,133.98L92.96,134.43L96.18,136.77L96.58,136.92L99.8,137.19L100.2,137.12L103.82,135.53L104.23,135.26L109.46,130.69L109.86,130.28L118.31,122.37L118.71,122.1L123.54,119.72L123.95,119.61L128.37,119.27L128.77,119.32L133.2,120.9L133.6,121.12L139.64,125.48L140.04,125.8L147.69,130.99L148.09,131.19L154.53,133.44L154.93,133.52L160.16,133.68L160.57,133.62L164.99,132.11L165.39,131.89L170.22,128.37L170.63,128.02L182.3,118.31L182.7,118.08L185.11,117.49L185.52,117.52L189.14,118.57L189.54,118.79L193.16,121.62L193.56,122.04L197.59,127.28L197.99,127.91L203.62,138.27L204.03,139.1L206.44,142.64L206.84,142.87L211.27,146.33L211.67,146.73L216.1,152.17L216.5,152.77L218.51,157.15L218.92,158.2L226.56,176.04L226.96,176.78L230.99,182.58L231.39,182.98L234.61,185.02L235.01,185.13L237.83,185.15L238.23,185.04L241.85,183.02L242.26,182.68L246.28,178.09L246.68,177.52L250.71,171.04L251.11,168.68L252.32,164.28L252.72,163.5L255.13,160.5L255.54,160.31L256.74,160.49L257.15,160.81L258.76,163.41L259.16,164.44L261.17,171.68L261.57,173.44L264.79,191.52L265.19,193.98L269.62,215.16L270.02,216.1L271.63,217.85L272.04,217.7L273.24,215.92L273.65,214.94L276.06,205.74L276.46,203.82L280.89,184.58L281.29,183.46L283.3,180.37L283.71,180.23L284.91,180.67L285.32,181.07L287.33,184.5L287.73,185.35L293.77,197.24L294.17,197.78L307.45,213.82L307.85,214.05L312.28,215.45L312.68,215.52L316.7,215.69L317.11,215.62L319.92,214.1L320.33,213.71L323.14,209.83L323.55,209.1L328.37,198.45L328.78,197.49L341.65,168.39L342.06,167.58L346.89,159.52L347.29,159.01L351.31,155.53L351.71,155.27L360.57,151.3L360.97,151.17L374.65,145.69L375.05,145.43L380.29,141.02L380.69,140.63L387.53,134.35L387.93,134.1L397.99,127.89L398.4,127.56L404.03,123.67L404.43,123.52L413.28,120.99L413.69,120.88L417.31,120.92L417.71,121L421.74,122.96L422.14,123.22L428.58,126.74L428.98,126.88L433.41,127.36L433.81,127.3L437.03,126.13L437.43,125.87L441.86,121.76L442.26,121.28L448.3,113.08L448.7,112.48L454.73,102L455.14,101.28L463.59,89.66L463.99,89.28L470.83,84.29L471.23,84.06L481.7,77.37L482.1,77.09L493.37,69.34L493.77,68.86L499,61.4L499.4,60.62L506.24,44.5L506.65,43.55L512.28,32.69L512.68,32.12L519.12,24.61L519.52,24.15L527.17,18.25L527.57,18.01L535.22,16.09L535.62,16.02L539.64,16.98L540.05,17.33L543.27,22.69L543.67,23.7L562.18,68.88L562.58,69.48L569.42,80.39L569.83,81.1L575.46,94.45L575.86,95.7L582.7,118.55L583.11,119.3L591.15,129.64L591.56,129.93L598,131.63L598.4,131.58L609.67,127.12L610.07,126.93L622.95,123.89L623.35,123.95L633.41,128.63L633.81,128.89L653.53,138.17L653.93,138.12L663.99,133.2L664.39,132.91L680.89,124.87L681.3,125.09L690.55,134.84L690.95,135.44L701.42,145.53L701.82,145.57L708.26,150.33L708.66,151.25L727.17,189.91L727.57,190.14L734.42,188.76L734.82,188.39L740.85,175.52L741.26,174.62L745.28,170.37L746.89,172.22L747.29,173.08L756.95,204.05L758.96,200.57L759.37,199.07L764.19,163.39L764.19,163.39" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter tracec005ba" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-241.45,100.51L-229.38,83.17L-228.98,82.14L-219.32,58.19L-218.92,57.58L-210.87,53.99L-210.47,53.99L-202.82,58.76L-202.42,59.26L-169.82,106.15L-169.42,107.33L-160.57,123.95L-160.16,124.34L-152.11,127.89L-151.71,127.87L-140.04,124.03L-139.64,123.86L-123.54,119.69L-123.14,119.68L-111.47,121.8L-111.07,121.97L-98.19,130.25L-97.79,130.54L-86.92,136.04L-86.52,136.1L-79.68,134.92L-79.28,134.72L-69.62,127.78L-69.22,127.47L-59.16,122.02L-58.75,122.06L-53.52,124.37L-53.12,124.68L-47.08,131.63L-46.68,132.21L-39.44,141.69L-39.03,141.58L-34.61,141.88L-34.21,142.06L-30.18,145.28L-29.78,145.75L-27.77,149.98L-27.36,150.9L-21.33,162.11L-20.93,162.62L-16.9,166.13L-16.5,166.31L-13.28,166.78L-12.88,166.72L-9.26,165.25L-8.85,164.98L-4.02,160.48L-3.62,160.01L-1.21,156.37L-0.8,153.31L0.4,150.68L0.8,149.9L3.62,146.86L4.02,146.75L5.23,147.15L5.63,147.54L7.24,150.52L7.65,151.66L9.66,159.7L10.06,161.68L13.28,182.28L13.68,185.16L18.51,213.94L18.91,215.4L20.93,219.57L21.33,219.8L22.54,219.3L22.94,218.79L25.35,213.26L25.75,212.09L29.78,203.08L30.18,202.62L32.19,201.54L32.6,201.59L34.61,202.72L35.01,203.08L46.28,214.13L46.68,214.83L57.95,236.37L58.35,236.89L64.39,243.61L64.79,243.85L67.2,244.46L67.61,244.39L69.62,243.01L70.02,242.56L73.64,236.89L74.05,236.16L85.72,213.61L86.12,212.45L90.54,201.31L90.95,200.35L96.58,188.37L96.98,187.65L106.24,172.55L106.64,172.07L110.67,168.58L111.07,168.39L115.09,167.32L115.49,167.27L122.74,167.09L123.14,167.11L129.58,166.86L129.98,166.72L133.2,164.79L133.6,164.44L145.27,153.06L145.68,152.89L149.7,152.07L150.1,152.02L155.33,150.95L155.74,150.75L160.97,146.88L161.37,146.57L165.8,143.59L166.2,143.41L169.02,143.18L169.42,143.26L173.85,144.85L174.25,145L180.28,146.83L180.69,146.88L185.92,147.04L186.32,146.96L191.15,145.32L191.55,145.1L195.58,141.71L195.98,141.24L200,135.06L200.4,134.26L206.04,121.54L206.44,120.59L210.06,113.95L210.47,113.41L213.68,110.45L214.09,110.2L222.94,104.66L223.34,104.31L227.77,101.32L228.17,101.2L230.59,101.24L230.99,101.36L234.61,103.52L235.01,103.81L239.84,106.44L240.24,106.5L243.46,105.88L243.87,105.69L247.89,102.57L248.29,102.17L253.93,95.88L254.33,95.2L258.35,86.36L258.76,85.26L266.4,66.42L266.8,65.82L269.62,63L270.02,62.73L275.66,59.32L276.06,58.86L279.68,53.69L280.08,53L284.91,46.68L285.32,46.37L288.13,44.94L288.53,44.85L290.14,44.13L290.55,43.85L295.78,41.09L296.18,41.07L298.19,41.95L298.6,42.32L301.81,47.3L302.22,48.07L319.52,83.87L319.92,84.57L328.78,99.24L329.18,100.22L333.61,113.56L334.01,115.81L336.83,120.94L337.23,121.57L341.25,126.48L341.65,126.82L345.28,128.87L345.68,128.99L349.3,129.2L349.7,129.14L354.13,127.66L354.53,127.48L369.02,120.78L369.42,120.69L375.46,120.06L375.86,120.07L381.9,120.92L382.3,121.02L391.96,124.39L392.36,124.57L406.44,130.25L406.85,130.34L412.88,131L413.28,130.99L418.52,130.19L418.92,130.07L433.41,126.07L433.81,126.04L436.63,126.46L437.03,126.69L441.45,130.04L441.86,130.43L447.09,136.59L447.49,137.13L456.34,149.51L456.75,149.35L460.77,148.6L461.17,148.64L464.79,149.83L465.2,150.08L467.21,152.01L467.61,152.81L474.05,163.69L474.45,164.22L478.48,168.35L478.88,168.64L482.1,169.93L482.5,169.97L485.72,169.39L486.12,169.19L489.34,166.87L489.74,166.48L494.17,161.18L494.57,160.21L496.59,156.39L496.99,155.79L499.4,153.35L499.8,153.24L501.41,153.85L501.82,154.34L503.83,158.86L504.23,160.31L507.45,175.61L507.85,178L513.49,208.06L513.89,209.33L515.9,212.72L516.3,212.82L517.51,211.98L517.91,211.36L520.73,203.71L521.13,202.38L525.16,191.27L525.56,190.63L527.97,188.89L528.38,188.96L530.79,190.92L531.19,191.43L539.64,204.49L540.05,205.19L546.08,219.69L546.49,220.81L554.13,237.27L554.53,237.89L560.97,244.1L561.37,244.28L565.4,244.15L565.8,243.93L570.23,239.41L570.63,238.81L575.86,229.34L576.26,228.53L586.32,206.3L586.73,205.27L602.42,171.15L602.82,170.55L613.69,159.23L614.09,159.07L622.95,158.22L623.35,158.15L630.19,154.01L630.59,153.63L653.53,134.46L653.93,134.36L669.22,134.89L669.63,134.91L682.5,132.96L682.91,132.72L696.19,119.96L696.59,119.44L729.18,82.26L729.59,82.04L751.72,70.86L752.12,71.38L759.77,90.97L760.17,92.42L764.19,108.58L764.19,108.58" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace214fe2" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-241.45,130.17L-235.42,183.14L-235.01,185.58L-230.18,199.2L-228.98,198.41L-228.57,197.83L-221.73,187.85L-220.12,189.68L-219.72,190.47L-202.42,228.6L-202.01,228.9L-193.56,230.1L-193.16,229.9L-177.47,218.47L-177.06,217.77L-152.52,179.32L-152.11,178.9L-138.03,168.16L-137.63,168.03L-113.88,160.69L-113.48,160.38L-90.54,143.17L-90.14,143.11L-80.89,142.99L-80.48,143.12L-69.22,145.34L-68.81,145.22L-59.16,140.66L-58.75,140.39L-53.12,134.64L-52.72,134.06L-37.83,113.2L-37.43,112.89L-31.79,106.96L-31.39,106.37L-22.13,93.09L-21.73,92.88L-18.91,92.43L-18.51,92.5L-8.85,95.41L-8.45,95.31L-5.23,93.68L-4.83,93.34L1.21,87.64L1.61,87.04L4.83,80.96L5.23,79.97L10.06,65.68L10.46,64.39L15.29,51.35L15.69,50.63L18.51,47.38L18.91,47.15L25.75,44.18L26.16,43.76L35.82,33.81L36.22,33.47L42.66,28.92L43.06,28.82L45.07,29.11L45.47,29.4L50.7,33.83L51.11,34.47L56.34,45.1L56.74,46.05L67.61,73.83L68.01,74.38L76.06,85.34L76.46,86.22L79.68,95.16L80.08,96.49L88.13,122.46L88.53,123.21L92.96,129.92L93.36,130.34L96.98,132.89L97.39,133.04L101.01,133.38L101.41,133.32L105.43,131.78L105.84,131.54L111.47,127.35L111.87,127.01L119.92,121.4L120.32,121.21L125.55,119.66L125.96,119.61L130.38,119.93L130.79,120.03L135.62,122.19L136.02,122.43L149.3,129.87L149.7,130L156.54,131.29L156.94,131.31L162.18,130.67L162.58,130.55L167.41,128.2L167.81,127.93L176.26,121.33L176.66,121.03L182.3,117.68L182.7,117.52L186.32,116.86L186.72,116.97L190.34,118.83L190.75,119.13L195.17,123.74L195.58,124.27L200.4,132.02L200.81,132.76L209.66,149.17L210.06,149.49L214.89,154.06L215.29,154.53L220.12,161.17L220.53,161.81L222.94,167.05L223.34,167.95L228.57,177.71L228.98,178.28L232.6,181.94L233,182.19L235.82,183.08L236.22,183.09L239.44,182.25L239.84,182.04L243.46,179.11L243.87,178.68L248.29,172.57L248.7,171.89L250.71,168.58L251.11,166.23L252.32,161.83L252.72,161.05L255.13,158.1L255.54,157.91L256.74,158.12L257.15,158.45L258.76,161.11L259.16,162.15L261.17,169.46L261.57,171.24L264.79,189.45L265.19,191.93L269.62,213.28L270.02,214.23L271.63,216.02L272.04,215.89L273.24,214.18L273.65,213.23L275.66,205.95L276.06,204.2L281.29,182.79L281.69,181.96L283.71,180.05L284.11,180.12L285.72,181.69L286.12,182.31L290.95,192.54L291.35,193.33L294.97,198.49L295.38,198.92L302.62,207.12L303.02,207.64L307.05,211.34L307.45,211.56L311.47,212.52L311.88,212.54L317.51,212.05L317.91,211.86L320.73,209.63L321.13,209.15L324.35,203.75L324.75,202.91L345.28,158.61L345.68,158.02L349.7,153.77L350.1,153.49L356.14,150.39L356.54,150.24L365.4,147.55L365.8,147.44L372.64,144.85L373.04,144.65L379.08,140.56L379.48,140.17L388.33,132.62L388.74,132.43L397.19,127.72L397.59,127.37L403.63,123.14L404.03,122.95L414.49,119.97L414.89,119.94L418.52,120.31L418.92,120.46L424.55,123.5L424.95,123.73L429.78,125.46L430.19,125.52L434.21,125.37L434.61,125.29L437.43,123.92L437.83,123.6L441.86,119.67L442.26,119.18L448.3,110.93L448.7,110.33L454.33,100.66L454.73,99.9L459.97,91.6L460.37,91.05L464.79,86.36L465.2,86.06L487.33,71.97L487.73,71.73L493.77,66.92L494.17,66.41L496.18,64.32L496.59,63.75L500.61,56.45L501.01,55.59L512.68,31.49L513.08,30.95L519.93,23.83L520.33,23.52L525.96,19.98L526.36,20.01L536.42,21.21L536.83,21.26L540.05,22.53L540.45,22.86L543.67,24.19L544.07,24.6L548.5,32.52L548.9,33.5L565.4,71.76L565.8,72.37L572.24,82.51L572.64,83.36L579.08,102.11L579.48,103.75L582.7,114.07L583.11,114.81L591.56,125.78L591.96,126.1L599.2,128.6L599.6,128.6L613.29,125.48L613.69,125.38L625.76,124.92L626.16,125.03L656.75,134.41L657.15,134.25L681.7,124.3L682.1,124.61L692.16,137.51L692.56,138.2L705.04,152.73L705.44,152.95L712.68,161.99L713.09,162.98L727.17,187.38L727.57,187.57L734.42,185.6L734.82,185.19L740.85,171.86L741.26,170.93L745.28,166.35L746.89,168.09L747.29,168.91L756.95,199.44L758.96,196.04L759.37,194.57L764.19,159.56L764.19,159.56" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" d="M120,420.5H620" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;"/>
+          <path class="ylines-above crisp" d="M120.5,100V420" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(121,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(370.5,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(121,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(370.5,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,406.21)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,362.72)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,319.23)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,275.74)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,232.26)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,188.76999999999998)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,145.28)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,101.79)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,406.21)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;80</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,362.72)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;60</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,319.23)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;40</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,275.74)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,232.26)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,188.76999999999998)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,145.28)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">40</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,101.79)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">60</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-57559f">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M455.01,420L455.01,100" clip-path="url('#clip57559fx')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle"/>
+        <g class="g-ytitle" transform="translate(12.3154296875,0)">
+          <text class="ytitle" transform="rotate(-90,11.684375000000003,260)" x="11.684375000000003" y="260" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">hip flex. moment (N.m)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,455.01,84.5)">
+            <g class="cursor-pointer" transform="translate(424,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,337)">
+            <g class="cursor-pointer" transform="translate(-41,318)">
+              <rect class="bg" x="0.5" y="0.5" width="165" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="83.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">extension</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,254L61,319.23" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 62.63px, 65.23px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,316.6300048828125)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,145.51)">
+            <g class="cursor-pointer" transform="translate(-23,127)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">flexion</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,210.51L61,145.28" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 62.63px, 65.23px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,147.8800048828125)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="main-svg" transform="translate(100, 500) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-7cb311">
+        <g class="clips">
+          <clipPath id="clip7cb311xyplot" class="plotclip">
+            <rect width="499" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip7cb311x">
+            <rect x="121" y="0" width="499" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip7cb311y">
+            <rect x="0" y="100" width="700" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip7cb311xy">
+            <rect x="121" y="100" width="499" height="320"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(121,100)" clip-path="url('#clip7cb311xyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter traced2599d" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,149.65L-215.71,171.09L-209.23,179.13L-189,214.44L-182.12,227.8L-168.76,251.47L-161.88,261.8L-148.53,277.75L-141.65,283.6L-128.29,289.34L-121.41,289.72L-114.53,288.84L-108.06,285.34L-94.3,274L-87.82,265.74L-74.06,245.02L-67.59,232.64L-53.83,205.07L-47.35,189.47L-27.12,146.59L-20.24,135.91L-13.36,129.11L-6.88,125.67L0,125.82L6.88,129.71L20.24,143.2L27.12,150.51L40.47,166.42L47.35,171.9L53.83,176.96L60.71,180.05L67.59,182.33L74.06,183.08L80.94,183.45L87.82,182.08L94.3,180.58L101.18,178.12L108.06,175.95L114.53,172.77L134.77,163.05L141.65,161.32L148.53,159.05L155,156.06L168.76,152.73L175.24,150.62L202.35,143.35L209.23,142.03L229.47,139.43L235.94,139.7L242.82,139.56L249.7,141.33L263.06,146.91L269.94,151.22L283.29,163.51L290.17,171.94L303.53,194.34L310.41,208.01L323.76,236.39L330.64,248.59L337.12,260.12L344,269.98L357.35,283.28L364.23,287.49L371.11,289.67L377.59,290L384.47,289.18L391.35,285.77L397.82,281.09L404.7,274.58L411.58,266.74L418.06,257.29L424.94,246.4L431.82,233.53L445.17,205.2L452.05,189.7L465.41,159.4L472.29,146.27L478.76,135.8L485.64,128.74L492.52,125.83L499,126.17L505.88,130.59L512.76,137.07L546.35,172.55L553.23,177.94L566.59,185.16L573.47,186.75L586.82,185.94L593.7,184.65L613.94,175.51L620.41,171.76L654.41,156.23L660.88,153.74L708.23,141.33L715.11,139.55L741.82,137.8L748.7,140.04L768.94,152.81" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace69de03" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,133.95L-195.47,167.1L-189,169.14L-168.76,167.17L-161.88,165.76L-141.65,159.7L-134.77,157.42L-60.71,131.24L-53.83,129.82L-33.59,124.31L-27.12,123.41L-13.36,122.59L-6.88,124.36L0,125.92L6.88,128.67L20.24,136.45L27.12,141.7L33.59,148.58L40.47,157.14L47.35,168.24L53.83,183.3L80.94,245.96L87.82,257.8L94.3,267.63L101.18,275.5L108.06,281.24L114.53,285.17L121.41,287.12L128.29,287.21L134.77,285.26L141.65,281.7L148.53,276.6L155,269.44L161.88,260.85L168.76,250.75L182.12,226.79L189,213.56L202.35,185.37L209.23,171.39L222.59,146.44L229.47,136.75L235.94,129.69L242.82,125.47L249.7,125.08L256.18,127.19L263.06,131.19L269.94,136.84L296.65,159.49L303.53,163.85L310.41,167.09L316.88,169.09L323.76,170.5L330.64,170.05L344,167.6L350.88,165.72L357.35,162.93L364.23,160.79L404.7,143.72L411.58,141.32L438.29,133.55L445.17,131.78L478.76,124.66L485.64,124.61L499,127.78L505.88,130.54L519.24,138.55L526.12,144.01L533,150.99L539.47,160.07L546.35,172.33L553.23,187.96L573.47,238.07L579.94,251.79L593.7,273.43L600.18,281.21L613.94,290.02L620.41,291.3L634.17,288.16L640.65,283.66L654.41,270.01L660.88,260.48L667.76,249.32L674.64,236.38L721.59,137.56L728.47,129.51L741.82,123.63L748.7,125.67L768.94,142.63" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace3b53b1" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,152.54L-215.71,173.29L-209.23,181.08L-189,215.54L-182.12,228.65L-161.88,262.33L-155,271.43L-141.65,284.04L-134.77,287.68L-121.41,290.15L-114.53,289.28L-101.18,281.15L-94.3,274.51L-80.94,256.93L-74.06,245.72L-53.83,206.26L-47.35,190.93L-27.12,148.65L-20.24,138L-13.36,131.17L-6.88,127.71L0,128L6.88,131.94L20.24,145.61L27.12,152.95L40.47,168.65L47.35,174.09L53.83,179.02L60.71,182.03L67.59,184.31L74.06,184.99L80.94,185.33L87.82,183.97L94.3,182.5L101.18,180.07L108.06,177.9L114.53,174.81L128.29,168.77L134.77,165.27L148.53,161.3L155,158.35L168.76,155.04L175.24,152.92L202.35,145.72L209.23,144.5L229.47,142.28L235.94,142.56L242.82,142.56L249.7,144.36L263.06,149.88L269.94,154.04L283.29,165.96L290.17,174.06L303.53,195.85L310.41,209.21L323.76,237.1L330.64,249.18L337.12,260.63L344,270.43L357.35,283.71L364.23,287.92L371.11,290.09L377.59,290.44L384.47,289.63L391.35,286.23L397.82,281.57L404.7,275.09L411.58,267.3L418.06,257.94L424.94,247.1L431.82,234.35L452.05,191.17L458.53,175.99L472.29,148.39L478.76,137.95L485.64,130.88L492.52,127.98L499,128.37L505.88,132.87L526.12,153.56L533,161.21L546.35,174.63L553.23,180L566.59,187.04L573.47,188.58L586.82,187.76L593.7,186.47L613.94,177.5L620.41,173.8L654.41,158.56L660.88,156.12L708.23,143.97L715.11,142.3L741.82,140.93L748.7,143.18L768.94,155.58" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter traceb729fd" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,140.59L-195.47,173.83L-189,175.69L-168.76,174.05L-161.88,172.8L-134.77,165.05L-128.29,162.89L-67.59,142.23L-60.71,140.27L-40.47,134.77L-33.59,133.36L-13.36,131.78L-6.88,133.77L0,135.18L6.88,138.06L20.24,145.81L27.12,150.92L40.47,165.5L47.35,175.72L67.59,219.44L74.06,234.39L80.94,248.07L87.82,259.55L94.3,269.16L101.18,276.89L108.06,282.57L114.53,286.47L121.41,288.39L128.29,288.53L134.77,286.63L141.65,283.16L148.53,278.17L155,271.21L161.88,262.88L168.76,253.09L182.12,230L189,217.37L202.35,190.52L209.23,177.16L222.59,152.8L229.47,143.08L235.94,135.95L242.82,131.67L249.7,131.42L256.18,133.65L263.06,137.96L269.94,143.89L290.17,161.51L296.65,166.63L303.53,170.77L310.41,173.84L316.88,175.82L323.76,177.1L337.12,175.82L344,174.5L350.88,172.82L357.35,170.26L371.11,165.65L377.59,162.63L397.82,155.56L404.7,152.64L431.82,143.99L438.29,142.63L465.41,136.34L472.29,135.17L478.76,134.01L485.64,134.04L499,137.2L505.88,139.95L519.24,147.82L526.12,153.06L533,159.69L539.47,168.1L553.23,193.7L559.71,209.37L579.94,253.69L586.82,265.03L600.18,282.47L607.06,287.98L620.41,292.55L627.29,291.89L640.65,285.11L647.53,279.59L660.88,262.52L667.76,251.71L674.64,239.19L681.12,225.71L721.59,143.93L728.47,135.71L741.82,129.6L748.7,131.79L768.94,149.78" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M120,420.5H620"/>
+          <path class="ylines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M120.5,100V420"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(121,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(370.7,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(121,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(370.7,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,414)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,368)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,322)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,276)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,230)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,184)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,138)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,414)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;80</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,368)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;60</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,322)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;40</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,276)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,230)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,184)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,138)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">40</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-7cb311">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M456.9,420L456.9,100" clip-path="url('#clip7cb311x')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle"/>
+        <g class="g-ytitle" transform="translate(12.3154296875,0)">
+          <text class="ytitle" transform="rotate(-90,11.684375000000003,260)" x="11.684375000000003" y="260" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">knee flexion (deg)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,456.9,84.5)">
+            <g class="cursor-pointer" transform="translate(426,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,359)">
+            <g class="cursor-pointer" transform="translate(-41,340)">
+              <rect class="bg" x="0.5" y="0.5" width="165" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="83.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">extension</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,276L61,414" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 135.4px, 138px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,411.3999938964844)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,165)">
+            <g class="cursor-pointer" transform="translate(-23,146)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">flexion</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,230L61,138" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 89.4px, 92px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,140.60000610351562)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="main-svg" transform="translate(800, 500) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-a68ccb">
+        <g class="clips">
+          <clipPath id="clipa68ccbxyplot" class="plotclip">
+            <rect width="499" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipa68ccbx">
+            <rect x="121" y="0" width="499" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipa68ccby">
+            <rect x="0" y="100" width="700" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipa68ccbxy">
+            <rect x="121" y="100" width="499" height="320"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(121,100)" clip-path="url('#clipa68ccbxyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter trace75ecd6" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-236.71,197.87L-230.31,200.34L-223.91,188.1L-204.72,125.99L-198.32,113.64L-185.53,100.04L-179.13,101.11L-166.33,106.57L-159.94,111.66L-115.15,107.36L-108.76,108.03L-63.97,115.4L-57.58,116.98L-44.78,125.86L-38.38,131.75L-31.99,133.61L-25.59,136.75L-19.19,143.73L-12.79,148.34L-6.4,149.26L0,146.2L6.4,136.15L12.79,137.91L19.19,156.85L25.59,160.51L31.99,134.51L38.38,113.54L57.58,60L63.97,45.4L70.37,38.51L76.77,33.54L83.17,34.35L89.56,40.26L95.96,46.41L102.36,56.08L108.76,66.54L115.15,78.81L134.35,121.63L140.74,132.04L147.14,142.82L153.54,155.48L159.94,166.53L166.33,172.36L172.73,177.19L179.13,184.03L191.92,195.62L198.32,201.25L204.72,205.47L211.12,207.3L217.51,213.54L223.91,221.17L230.31,225.93L236.71,232.7L243.1,237.61L249.5,235.16L255.9,228.66L262.29,217.93L275.09,195.13L281.49,171.83L287.88,143.42L294.28,121.75L300.68,105.16L307.08,99.22L313.47,98.47L319.87,102.55L326.27,103.76L332.67,106.4L339.06,110.08L345.46,108.92L358.26,106.44L364.65,106.05L377.45,106.59L383.85,107.23L409.44,110.79L415.83,111.84L428.63,115.01L435.03,117.61L441.42,122.16L447.82,128.1L454.22,134.56L460.62,137.01L467.01,139.76L473.41,146.75L479.81,151.13L486.21,151.53L492.6,147.67L499,139.66L505.4,141.55L511.79,158.82L518.19,157.06L524.59,129.75L537.38,94.7L543.78,76.44L562.97,29.37L569.37,22.26L575.77,20.84L582.17,26.2L594.96,46.07L601.36,60.04L626.95,114.68L633.35,124.68L646.14,141.45L652.54,146.02L710.12,212.87L716.51,221.19L729.31,231.38L735.71,232.06L761.29,203.58" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace183fd0" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-236.71,134.97L-230.31,151.19L-223.91,142.48L-211.12,102.18L-204.72,95.35L-191.92,69.51L-185.53,58.34L-172.73,50.48L-166.33,52.44L-153.54,71.26L-147.14,83.2L-102.36,157.19L-95.96,163.65L-57.58,202.39L-51.18,209.66L-38.38,221.29L-31.99,228.37L-25.59,232.13L-19.19,233.28L-6.4,244.48L0,242.83L6.4,236.74L12.79,226.27L19.19,213.65L25.59,206.27L31.99,189.31L38.38,162.99L51.18,110.95L57.58,98.37L63.97,96.37L70.37,98.64L76.77,96.15L83.17,100.14L89.56,106.71L95.96,106.65L115.15,105.72L121.55,105.93L134.35,107.32L140.74,108.35L185.53,116.58L191.92,119.63L211.12,132.77L217.51,135.45L230.31,148.09L236.71,151.83L243.1,151.65L249.5,147.31L255.9,137.4L262.29,138.5L268.69,154.87L275.09,154.63L281.49,122.99L287.88,100.67L294.28,89.37L300.68,73.09L313.47,46.45L319.87,39.95L326.27,36.39L332.67,36.86L339.06,43.59L345.46,52.06L364.65,91.22L371.05,101.5L377.45,111.36L383.85,119.57L390.24,128.98L396.64,140.32L409.44,154.21L415.83,160.26L422.23,166.9L428.63,175.47L435.03,184.25L441.42,191.06L454.22,205.68L460.62,210.95L467.01,218.43L473.41,227.52L479.81,232.86L486.21,235.02L492.6,235.04L499,229.88L511.79,209.19L518.19,195.2L537.38,126.19L543.78,107.61L550.18,99.03L556.58,98.07L569.37,96.07L575.77,98.9L582.17,104.93L588.56,104.26L607.76,105.09L614.15,106.12L678.13,118.51L684.53,123.18L722.91,154.47L729.31,155.07L735.71,150.99L742.1,140.8L748.5,147.16L754.9,164.79L761.29,150.09" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace93ea43" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-236.71,191.19L-230.31,194.16L-223.91,182.56L-211.12,137.1L-204.72,123.23L-191.92,103.81L-185.53,99.58L-166.33,106.69L-159.94,111.7L-115.15,107.4L-108.76,108.09L-63.97,115.59L-57.58,117.16L-44.78,125.86L-38.38,131.76L-25.59,137.08L-19.19,143.7L-12.79,148.28L-6.4,149.23L0,146.22L6.4,136.18L12.79,137.8L19.19,156.32L25.59,159.34L31.99,132.96L38.38,111.71L44.78,93.78L51.18,73.71L57.58,56.57L63.97,41.38L70.37,34.07L76.77,28.85L83.17,29.49L95.96,41.44L102.36,51.18L108.76,61.76L115.15,74.16L134.35,116.89L140.74,127.28L147.14,138.01L153.54,150.59L159.94,161.54L166.33,167.31L172.73,172.08L179.13,178.84L191.92,190.29L198.32,195.86L204.72,199.97L211.12,201.66L217.51,207.72L223.91,215.13L230.31,219.64L236.71,226.13L243.1,230.79L249.5,228.2L255.9,221.67L262.29,211.08L275.09,189.37L281.49,167.03L287.88,139.83L294.28,119.03L300.68,103.47L307.08,98.34L313.47,98.13L319.87,102.54L326.27,103.82L332.67,106.44L339.06,110.07L345.46,108.9L358.26,106.49L364.65,106.1L377.45,106.64L383.85,107.27L409.44,110.95L415.83,112.03L428.63,115.21L435.03,117.82L441.42,122.23L447.82,128.1L454.22,134.53L460.62,137.72L467.01,140.33L473.41,146.71L479.81,151.09L486.21,151.52L492.6,147.71L499,139.72L505.4,141.52L511.79,158.44L518.19,156.11L524.59,128.38L537.38,92.51L543.78,73.72L562.97,24.96L569.37,17.57L575.77,16L582.17,21.3L594.96,41.34L601.36,55.48L626.95,110.27L633.35,120.22L646.14,136.82L652.54,141.27L729.31,224.1L735.71,224.63L761.29,197.14" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace1a0e5e" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-236.71,135.55L-230.31,149.92L-223.91,139.31L-217.51,109.53L-211.12,94.99L-198.32,69.57L-191.92,55.74L-185.53,43.01L-179.13,35.91L-172.73,33.01L-166.33,34.46L-153.54,52.88L-147.14,64.91L-102.36,138.96L-95.96,145.27L-57.58,182.99L-51.18,189.99L-31.99,207.53L-25.59,210.7L-19.19,211.19L-12.79,215.97L-6.4,220.76L0,218.46L6.4,211.91L12.79,201.32L19.19,189.2L25.59,183.15L31.99,168.73L38.38,146.96L51.18,103.92L57.58,93.46L63.97,93.96L70.37,97.92L76.77,96.55L83.17,100.72L89.56,107.19L95.96,106.95L115.15,105.6L121.55,105.81L134.35,107.31L140.74,108.46L185.53,117.26L191.92,120.02L198.32,124.29L204.72,129.54L211.12,135.05L217.51,137.68L223.91,142.01L230.31,148.26L236.71,151.94L243.1,151.81L249.5,147.55L255.9,137.68L262.29,138.46L268.69,153.64L275.09,151.44L281.49,117.79L287.88,93.87L294.28,80.32L300.68,61.64L307.08,45.68L313.47,30.84L319.87,22.66L326.27,18.16L332.67,18.16L339.06,24.68L345.46,33.28L364.65,73.84L371.05,84.38L377.45,94.25L383.85,102.32L390.24,111.5L396.64,122.53L409.44,135.85L415.83,141.52L422.23,147.81L428.63,156.09L435.03,164.53L441.42,170.94L454.22,184.5L460.62,189.1L467.01,195.78L473.41,203.94L479.81,208.42L486.21,209.88L492.6,209.35L499,203.97L511.79,184.48L518.19,172.34L537.38,116.72L543.78,100.81L550.18,94.81L556.58,96.08L569.37,96.53L575.77,99.49L582.17,105.43L588.56,104.57L607.76,104.98L614.15,105.99L678.13,118.98L684.53,123.45L722.91,154.48L729.31,155.17L735.71,151.27L742.1,141.12L748.5,147.1L754.9,163.53L761.29,147.13" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M120,420.5H620"/>
+          <path class="ylines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M120.5,100V420"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(121,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(370.5,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(121,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(370.5,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,382.85)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,339.9)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,296.95)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,254)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,211.05)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,168.1)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,125.15)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,382.85)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;80</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,339.9)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;60</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,296.95)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;40</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,254)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,211.05)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,168.1)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,125.15)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">40</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-a68ccb">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M456.07,420L456.07,100" clip-path="url('#clipa68ccbx')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle"/>
+        <g class="g-ytitle" transform="translate(12.3154296875,0)">
+          <text class="ytitle" transform="rotate(-90,11.684375000000003,260)" x="11.684375000000003" y="260" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">knee flex. moment (N.m)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,456.07,84.5)">
+            <g class="cursor-pointer" transform="translate(425,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,337)">
+            <g class="cursor-pointer" transform="translate(-41,318)">
+              <rect class="bg" x="0.5" y="0.5" width="165" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="83.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">extension</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,254L61,382.85" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 126.25px, 128.85px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,380.25)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,146.05)">
+            <g class="cursor-pointer" transform="translate(-23,127)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">flexion</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,211.05L61,125.15" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 83.3px, 85.9px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,127.75)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="main-svg" transform="translate(1500, 500) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-630e3b">
+        <g class="clips">
+          <clipPath id="clip630e3bxyplot" class="plotclip">
+            <rect width="484" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip630e3bx">
+            <rect x="136" y="0" width="484" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip630e3by">
+            <rect x="0" y="100" width="700" height="320"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip630e3bxy">
+            <rect x="136" y="100" width="484" height="320"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(136,100)" clip-path="url('#clip630e3bxyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter trace88e231" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-234.19,152.6L-226,152.77L-225.61,152.38L-218.19,136.98L-217.8,135.89L-202.97,104.72L-202.58,104.11L-186.57,85.8L-186.18,85.63L-175.65,85.5L-175.25,85.51L-165.89,89.05L-165.5,89.38L-157.3,92.68L-156.91,92.7L-135.44,90.69L-135.05,90.64L-109.68,90.16L-109.29,90.21L-88.6,95.5L-88.21,95.6L-73.77,97.21L-73.38,97.21L-55.04,98.75L-54.65,98.88L-44.5,104.17L-44.11,104.42L-36.69,107.73L-36.3,107.82L-29.27,110.62L-28.88,110.97L-19.13,118.69L-18.74,118.9L-12.88,120.98L-12.49,121.04L-7.42,120.88L-7.03,120.79L-1.56,118.86L-1.17,118.06L0,115.34L0.39,115.06L3.51,112.88L3.9,112.73L6.25,112.65L6.64,112.8L8.98,114.81L9.37,115.32L12.49,120.61L12.88,121.41L16.39,126.94L16.78,127.32L18.35,127.81L18.74,127.71L20.3,126.29L20.69,125.68L23.03,120.27L23.42,119.16L32.4,93.54L32.79,92.76L40.98,75.66L41.37,74.75L49.96,55.94L50.35,55.16L58.94,40.03L59.33,39.56L62.84,36.47L63.23,36.2L69.87,32.29L70.26,32.11L74.55,31.07L74.94,31.1L78.06,31.95L78.45,32.13L88.6,37.18L88.99,37.43L93.29,41.47L93.68,41.93L104.61,55.88L105,56.46L112.8,69.72L113.19,70.44L126.07,92.36L126.46,92.9L132.71,100.43L133.1,100.87L143.64,113.53L144.03,114.05L151.84,123.45L152.23,123.82L156.52,126.85L156.91,127.05L164.33,131.08L164.72,131.36L170.18,135.84L170.57,136.17L184.23,145.98L184.62,146.2L194.77,151.87L195.16,152L199.85,152.68L200.24,152.71L204.53,154.07L204.92,154.31L211.16,159.02L211.55,159.29L217.8,162.28L218.19,162.41L224.44,165.67L224.83,165.97L233.02,171.09L233.41,171.15L236.93,170.98L237.32,170.83L242.39,168.41L242.78,168.15L249.03,162.86L249.42,162.37L253.71,156.14L254.1,155.55L260.35,147.09L260.74,146.65L265.81,140.12L266.2,139.42L269.71,131.33L270.1,130.24L280.64,100.85L281.03,100.01L288.06,86.97L288.45,86.46L291.96,83.19L292.35,82.96L296.25,81.6L296.65,81.53L300.55,81.58L300.94,81.66L304.84,83.45L305.23,83.69L310.7,86.57L311.09,86.65L319.67,88.23L320.06,88.45L325.53,91.62L325.92,91.62L335.29,90.88L335.68,90.83L352.07,89.44L352.46,89.45L363,90.18L363.39,90.22L420.77,97.88L421.16,98L425.84,100.03L426.23,100.23L434.82,105.69L435.21,105.97L443.02,110.71L443.41,110.79L450.43,112.78L450.82,112.94L453.95,115.07L454.34,115.37L461.75,120.23L462.14,120.42L467.22,122.11L467.61,122.17L472.29,122.07L472.68,121.99L477.36,120.25L477.75,120.05L481.27,117.28L481.66,116.96L485.17,114.93L485.56,114.86L487.9,115.39L488.29,115.63L491.03,118.85L491.42,119.47L497.27,127.3L497.66,127.39L499.61,126.6L500,126.16L502.35,121.68L502.74,120.63L515.23,87.13L515.62,86.44L525.37,65.61L525.76,64.72L540.99,33.54L541.38,32.88L548.01,24.8L548.4,24.5L556.21,20.74L556.6,20.72L562.85,22.27L563.24,22.51L573.38,32.37L573.77,32.88L587.05,54.43L587.44,55.1L608.12,89.18L608.51,89.7L625.3,107.2L625.69,107.43L658.86,131.07L659.25,131.36L713.12,172.09L713.51,172.02L722.49,165.77L722.88,165.33L741.22,146.49L741.22,146.49" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter traceac5014" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-234.19,109.18L-226,119.35L-225.22,118.83L-224.83,118.44L-218.97,105.09L-218.58,104.02L-208.82,88.54L-208.43,88.28L-200.24,77.4L-199.85,76.67L-181.5,51.13L-181.11,50.9L-170.18,48.07L-169.79,48.14L-161.98,52.9L-161.59,53.3L-147.93,70.9L-147.54,71.44L-115.15,111.28L-114.75,111.73L-99.53,125.21L-99.14,125.49L-74.16,143.67L-73.77,144.02L-51.13,161.27L-50.74,161.5L-29.27,173.39L-28.88,173.43L-21.08,174.1L-20.69,174.26L-16.39,177.04L-16,177.34L-10.54,180.71L-10.15,180.82L-7.03,180.98L-6.64,180.87L-2.34,179.06L-1.95,178.86L3.9,174.88L4.29,174.53L8.59,168.93L8.98,168.26L16,157.88L16.39,157.5L24.2,150.18L24.59,149.5L28.1,141.65L28.49,140.58L46.84,89.66L47.23,89.02L51.91,83.01L52.3,82.71L55.43,81.37L55.82,81.35L59.33,82.03L59.72,82.2L64.4,83.28L64.79,83.24L69.48,81.91L69.87,81.82L72.99,81.81L73.38,81.94L76.5,83.78L76.89,84.1L83.14,88.76L83.53,88.91L87.82,89.16L88.21,89.17L116.32,90.58L116.71,90.62L149.49,94.68L149.88,94.74L163.55,96.46L163.94,96.49L180.33,98.05L180.72,98.15L188.53,101.06L188.92,101.25L198.28,106.85L198.67,107.11L201.41,108.09L201.8,108.2L209.6,111.15L209.99,111.34L213.51,113.93L213.9,114.24L222.09,119.88L222.48,120.08L227.56,121.8L227.95,121.87L233.02,121.83L233.41,121.76L238.49,120.02L238.88,119.83L243.17,117.23L243.56,116.26L244.73,114.41L245.12,114.08L247.85,112.58L248.25,112.49L250.59,112.92L250.98,113.18L253.71,115.99L254.1,116.51L259.95,124.49L260.35,124.68L261.91,124.56L262.3,124.29L264.25,121.39L264.64,120.48L267.37,112.01L267.76,110.6L274.4,87.4L274.79,86.44L279.08,78.7L279.47,78.13L284.94,68.57L285.33,67.8L294.69,49.78L295.08,49.14L302.89,37.15L303.28,36.72L306.79,33.83L307.18,33.58L313.04,30.54L313.43,30.33L317.72,28.99L318.11,28.99L321.63,29.78L322.02,29.98L327.87,33.99L328.26,34.33L333.34,39.3L333.73,39.8L338.8,47.58L339.19,48.26L350.51,67.07L350.9,67.64L360.66,80.58L361.05,81.08L368.46,89.41L368.85,89.79L377.44,98.62L377.83,99.11L384.86,107.11L385.25,107.42L410.23,125.38L410.62,125.77L427.01,141.71L427.4,142.01L442.24,152.92L442.63,153.13L451.6,159.05L451.99,159.36L461.36,166.28L461.75,166.43L468,168.23L468.39,168.33L475.02,169.2L475.41,169.16L479.71,168.25L480.1,168.14L483.22,166.16L483.61,165.83L487.9,161.32L488.29,160.86L501.95,142.13L502.35,141.42L510.93,122.29L511.32,121.37L527.33,86.6L527.72,86.19L532.4,82.23L532.79,82.08L537.86,82.01L538.25,82.07L560.11,84.99L560.5,85.19L565.58,87.52L565.97,87.49L584.31,88.36L584.7,88.43L620.22,92.97L620.61,92.99L650.28,97.84L650.67,97.93L671.75,106.22L672.14,106.44L711.56,124.44L711.95,124.33L726.39,119.79L726.78,120.35L734.2,128.05L735.76,126.14L736.15,125.37L741.22,105.96L741.22,105.96" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace74165e" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-234.19,147.97L-225.61,148.16L-225.22,147.73L-217.8,132.29L-217.41,131.21L-202.58,102.1L-202.19,101.53L-186.57,85.36L-186.18,85.23L-175.65,85.63L-175.25,85.66L-165.5,89.56L-165.11,89.91L-157.69,92.77L-157.3,92.78L-136.22,90.74L-135.83,90.68L-111.24,89.95L-110.85,90L-92.9,94.49L-92.51,94.6L-76.5,97.36L-76.11,97.36L-53.86,99.12L-53.47,99.27L-43.33,104.89L-42.94,105.15L-36.3,108.26L-35.91,108.36L-28.49,111.45L-28.1,111.78L-18.74,118.93L-18.35,119.13L-12.49,121.03L-12.1,121.07L-7.03,120.75L-6.64,120.65L-1.56,118.78L-1.17,117.98L0,115.24L0.39,114.95L3.51,112.74L3.9,112.58L6.25,112.45L6.64,112.6L8.98,114.54L9.37,115.04L12.49,120.19L12.88,120.97L16.39,126.31L16.78,126.66L18.35,127.06L18.74,126.94L20.3,125.41L20.69,124.78L23.42,118.1L23.81,116.92L31.62,93.86L32.01,93.01L56.99,39.71L57.38,39.07L60.89,34.63L61.28,34.26L65.57,31.12L65.96,30.87L73.38,27.17L73.77,27.12L77.67,27.78L78.06,27.95L89.77,33.94L90.16,34.28L94.85,39.18L95.24,39.64L106.56,54.92L106.95,55.55L128.42,91.77L128.81,92.27L137.78,102.58L138.17,103.05L153.4,121.28L153.79,121.58L158.86,124.47L159.25,124.62L165.5,128.31L165.89,128.63L181.11,140.22L181.5,140.49L192.43,147.19L192.82,147.36L196.72,148.52L197.11,148.59L204.92,150.29L205.31,150.54L211.16,155.02L211.55,155.31L217.41,158.22L217.8,158.32L223.65,161.02L224.05,161.28L232.63,166.64L233.02,166.73L236.93,166.52L237.32,166.36L242.39,163.84L242.78,163.58L249.03,158.24L249.42,157.76L254.49,150.39L254.88,149.75L260.35,142.76L260.74,142.34L265.81,136.2L266.2,135.54L269.71,127.78L270.1,126.73L280.64,98.63L281.03,97.8L286.89,87.05L287.28,86.5L290.79,82.84L291.18,82.56L295.08,81.09L295.47,81.03L300.55,81.26L300.94,81.37L304.84,83.37L305.23,83.62L309.92,86.46L310.31,86.58L314.99,87.04L315.38,87.06L319.28,88.16L319.67,88.36L323.58,91.14L323.97,91.66L327.09,91.67L327.48,91.65L336.85,90.67L337.24,90.62L352.46,89.36L352.85,89.36L365.73,90.42L366.12,90.47L421.16,98.04L421.55,98.16L427.01,100.62L427.4,100.83L437.94,107.9L438.33,108.19L443.41,111.2L443.8,111.29L451.21,113.55L451.6,113.72L455.12,116.04L455.51,116.32L462.53,120.62L462.92,120.79L468,122.2L468.39,122.24L473.07,121.85L473.46,121.75L478.15,119.76L478.54,119.53L480.88,117.52L481.27,117.18L485.17,114.79L485.56,114.72L487.9,115.21L488.29,115.45L491.03,118.61L491.42,119.21L497.27,126.79L497.66,126.86L499.61,125.95L500,125.49L502.35,120.87L502.74,119.79L515.23,85.58L515.62,84.86L526.15,61.63L526.55,60.76L546.06,22.8L546.45,22.4L554.65,16.92L555.04,16.81L560.5,17.03L560.89,17.17L566.75,21.07L567.14,21.41L573.38,28.12L573.77,28.64L586.26,49.12L586.65,49.79L610.07,88.15L610.46,88.63L627.64,105.12L628.03,105.31L649.5,120.05L649.89,120.35L696.73,159.99L697.12,160.32L713.12,167.11L713.51,167.04L722.49,160.77L722.88,160.34L741.22,142.12L741.22,142.12" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace07f721" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-234.19,109.43L-226,117.83L-225.61,117.53L-225.22,117.12L-219.36,103.19L-218.97,101.98L-208.43,82.57L-208.04,82.16L-200.63,70.24L-200.24,69.44L-193.21,56.23L-192.82,55.6L-178.38,37.71L-177.99,37.51L-166.67,36.44L-166.28,36.64L-155.74,46.92L-155.35,47.41L-105,108.43L-104.61,108.73L-45.67,149.88L-45.28,150.06L-29.66,158.35L-29.27,158.4L-18.74,159.61L-18.35,159.82L-9.37,164.37L-8.98,164.38L-4.68,163.17L-4.29,162.96L1.17,159.56L1.56,159.25L5.46,155.47L5.85,155.02L9.37,149.83L9.76,149.22L16,140.51L16.39,140.17L20.3,137.85L20.69,137.62L23.81,134.88L24.2,134.36L27.32,128.78L27.71,127.94L47.23,83.78L47.62,83.21L51.13,79.66L51.52,79.43L54.65,78.67L55.04,78.68L58.16,79.83L58.55,80.03L64.79,82.82L65.18,82.84L73.77,82.66L74.16,82.84L78.06,85.77L78.45,86.1L83.14,89.38L83.53,89.52L87.43,89.67L87.82,89.67L116.71,90.19L117.1,90.23L137.39,93.05L137.78,93.12L162.76,96.88L163.15,96.9L181.5,98.45L181.89,98.56L189.7,101.72L190.09,101.92L199.06,107.58L199.45,107.85L204.53,110.44L204.92,110.58L213.51,114.39L213.9,114.61L226.39,121.66L226.78,121.76L231.85,122.11L232.24,122.07L236.93,120.89L237.32,120.73L242.39,117.85L242.78,117.66L243.56,116.47L243.95,115.28L246.29,113.44L246.68,113.21L249.42,112.63L249.81,112.69L252.15,114.04L252.54,114.42L260.35,123.38L260.74,123.42L262.3,122.56L262.69,122.08L264.64,118.2L265.03,117.12L268.15,106L268.54,104.33L274.4,83.04L274.79,82.01L279.08,73.37L279.47,72.71L285.33,60.84L285.72,59.92L293.13,43.57L293.52,42.79L301.33,28.29L301.72,27.64L305.62,22.91L306.01,22.54L313.04,17.88L313.43,17.62L317.72,16.02L318.11,16L321.63,16.65L322.02,16.84L327.48,20.4L327.87,20.73L333.73,26.59L334.12,27.12L338.8,34.54L339.19,35.24L350.51,54.65L350.9,55.24L359.88,67.48L360.27,67.96L368.85,77.66L369.25,78.03L376.66,85.4L377.05,85.89L384.86,94.71L385.25,95.01L402.42,106.05L402.81,106.28L407.89,109.97L408.28,110.32L415.69,117.72L416.08,118.16L424.28,125.85L424.67,126.1L441.85,137.85L442.24,137.99L451.21,143.15L451.6,143.45L460.97,149.67L461.36,149.82L469.17,151.34L469.56,151.35L476.97,151.31L477.36,151.18L481.66,149.31L482.05,149.07L485.95,145.56L486.34,145.16L501.95,126.03L502.35,125.42L514.45,103.22L514.84,102.51L528.5,80.49L528.89,80.19L533.18,78.88L533.57,78.92L560.11,85.63L560.5,85.84L565.58,88.13L565.97,88.1L585.09,88.41L585.48,88.48L669.01,104.68L669.4,104.9L712.73,124.39L713.12,124.25L726.39,119.9L726.78,120.42L733.81,127.32L735.37,125.57L735.76,124.83L741.22,103.57L741.22,103.57" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M135,420.5H620"/>
+          <path class="ylines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M135.5,100V420"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(136,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(378,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,421v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(136,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(378,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="454.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,344.81)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,269.14)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,193.45999999999998)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,117.78)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,344.81)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;100</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,269.14)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;50</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,193.45999999999998)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,117.78)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-630e3b">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M459.97,420L459.97,100" clip-path="url('#clip630e3bx')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle"/>
+        <g class="g-ytitle" transform="translate(11.7216796875,0)">
+          <text class="ytitle" transform="rotate(-90,12.278125000000003,260)" x="12.278125000000003" y="260" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">knee flex. moment (N.m)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,459.97,84.5)">
+            <g class="cursor-pointer" transform="translate(429,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,57,337)">
+            <g class="cursor-pointer" transform="translate(-26,318)">
+              <rect class="bg" x="0.5" y="0.5" width="165" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="83.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">extension</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M76,254L76,299.40999999999997" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 42.81px, 45.41px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(76,296.80999755859375)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,57,173.86)">
+            <g class="cursor-pointer" transform="translate(-8,155)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">flexion</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M76,238.86L76,193.45999999999998" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 42.8px, 45.4px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(76,196.05999755859375)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="main-svg" transform="translate(100, 1000) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-ca5082">
+        <g class="clips">
+          <clipPath id="clipca5082xyplot" class="plotclip">
+            <rect width="499" height="311"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipca5082x">
+            <rect x="121" y="0" width="499" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipca5082y">
+            <rect x="0" y="100" width="700" height="311"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipca5082xy">
+            <rect x="121" y="100" width="499" height="311"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(121,100)" clip-path="url('#clipca5082xyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter tracebb5c75" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,58.55L-229.47,57.3L-222.59,59.3L-209.23,77.49L-202.35,93.13L-189,148.79L-182.12,185.73L-175.24,221L-168.76,243.11L-161.88,248.22L-155,237.74L-134.77,184.21L-128.29,173.24L-114.53,162.47L-108.06,160.31L-80.94,151.15L-74.06,151.16L-60.71,154.75L-53.83,158.81L-40.47,168.83L-33.59,171.87L-27.12,172.08L-20.24,170.21L-13.36,165.8L-6.88,163.03L0,161.52L6.88,163.77L13.36,169.48L20.24,178.27L27.12,187.8L33.59,192.8L40.47,192.86L47.35,191.68L53.83,187.53L60.71,181.68L80.94,155.87L87.82,148.57L94.3,141.58L101.18,136.43L108.06,131.39L114.53,128.12L128.29,122.63L134.77,121.3L141.65,117.51L148.53,114.96L155,113.24L161.88,109.47L175.24,103.59L182.12,101L202.35,92.52L209.23,88.6L222.59,79.72L229.47,75.93L235.94,71.07L242.82,68.16L256.18,60.06L263.06,57.27L269.94,55.06L276.41,54.4L283.29,58.34L290.17,64.82L296.65,76.36L303.53,95.58L310.41,123.89L316.88,160.02L323.76,199.51L330.64,233.65L337.12,251.78L344,252.63L350.88,241.26L357.35,223.1L364.23,204.43L371.11,188.65L377.59,176.74L384.47,168.12L391.35,162.89L397.82,159.38L418.06,153.01L424.94,151.55L431.82,152.09L438.29,154.09L445.17,157.21L452.05,161.36L458.53,164.98L465.41,167.59L472.29,168.29L478.76,166.17L492.52,160.1L499,160.69L505.88,162.84L512.76,169.59L526.12,187.77L533,193.09L539.47,194.03L546.35,192.62L553.23,188.86L559.71,183.03L593.7,138.98L600.18,133.05L613.94,126.84L620.41,124.91L647.53,116.8L654.41,113.6L674.64,101.34L681.12,95.32L721.59,66.5L728.47,63.53L762.06,40.79L768.94,40.01" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter tracee7c8e8" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,195.25L-222.59,227.15L-215.71,228.98L-209.23,228.72L-202.35,223.35L-148.53,173.82L-141.65,170.43L-121.41,160.08L-114.53,157.41L-94.3,149.04L-87.82,147.38L-60.71,138.66L-53.83,135.18L-33.59,125.92L-27.12,121.28L-13.36,111.84L-6.88,104.47L13.36,88.27L20.24,85.26L27.12,84.57L33.59,86.09L40.47,91.21L47.35,99.94L53.83,112.41L60.71,134.25L67.59,164.06L74.06,197.14L80.94,226.09L87.82,243.07L94.3,246.1L101.18,237.82L114.53,211.16L121.41,199.58L128.29,190.34L134.77,183.39L141.65,178.04L148.53,173.68L155,168.96L161.88,166.16L168.76,164.13L175.24,165.05L182.12,168.78L189,174.33L202.35,189.72L209.23,196.44L215.71,200.26L222.59,201.92L229.47,200.37L235.94,197.06L249.7,191.09L256.18,191.37L263.06,195.03L269.94,201.97L276.41,211.82L283.29,219.08L290.17,223.2L296.65,223.4L303.53,220.49L310.41,215.51L316.88,208.94L323.76,200.58L344,179.95L350.88,174.17L371.11,162.89L377.59,160.45L391.35,154.2L397.82,150.46L411.58,144.83L418.06,139.92L431.82,132.37L438.29,126.3L499,77.34L505.88,72.83L512.76,69.05L519.24,68.62L526.12,70.01L533,73.95L539.47,80.69L546.35,89.95L553.23,105.35L559.71,130.31L566.59,165.68L573.47,205.1L579.94,240.53L586.82,261.14L593.7,263.4L600.18,250.43L613.94,212.69L620.41,198.38L634.17,181.45L640.65,175.99L654.41,168.12L660.88,166.83L674.64,169.34L681.12,173.88L708.23,198.69L715.11,200.4L728.47,196.49L735.35,192.84L741.82,190.12L748.7,192.17L768.94,225.93" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace2cbd8f" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,52.87L-229.47,52.16L-222.59,54.7L-209.23,73.57L-202.35,89.7L-189,146.08L-182.12,183.32L-175.24,218.69L-168.76,240.98L-161.88,246.21L-155,235.91L-134.77,182.74L-128.29,171.79L-114.53,161.1L-108.06,158.91L-80.94,149.67L-74.06,149.6L-60.71,152.82L-53.83,156.57L-40.47,165.58L-33.59,168.03L-27.12,167.85L-20.24,165.8L-13.36,161.4L-6.88,158.63L0,156.78L6.88,159.04L13.36,164.67L20.24,173.41L27.12,182.99L33.59,188.26L40.47,188.58L47.35,187.5L53.83,183.5L60.71,177.64L80.94,151.68L87.82,144.31L94.3,137.24L101.18,132L108.06,126.97L114.53,123.47L121.41,120.15L128.29,117.71L134.77,116.22L141.65,112.21L155,107.91L161.88,104.17L175.24,98.05L182.12,95.44L202.35,86.84L209.23,82.87L222.59,73.93L229.47,70L235.94,65.38L242.82,62.17L256.18,54.06L263.06,51.44L269.94,49.49L276.41,49.24L283.29,53.47L290.17,60.56L296.65,72.64L303.53,92.41L310.41,121.17L316.88,157.67L323.76,197.24L330.64,231.44L337.12,249.69L344,250.66L350.88,239.42L357.35,221.37L364.23,202.8L371.11,187.08L377.59,175.24L384.47,166.63L391.35,161.45L397.82,157.95L418.06,151.48L424.94,150.01L431.82,150.45L438.29,152.18L445.17,154.96L452.05,158.59L458.53,161.65L465.41,163.73L472.29,164.02L478.76,161.69L492.52,155.48L499,156.01L505.88,158.09L512.76,164.78L526.12,183.02L533,188.57L539.47,189.74L546.35,188.74L553.23,184.92L559.71,179.14L593.7,134.97L600.18,128.94L613.94,122.42L620.41,120.36L654.41,108.35L660.88,104.63L681.12,89.63L688,84.29L762.06,35.05L768.94,34.52" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter traceeda3a5" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-242.82,181.11L-222.59,211.96L-215.71,214.39L-209.23,214.54L-202.35,209.82L-175.24,182.79L-168.76,177.24L-141.65,155.76L-134.77,151.02L-108.06,137.13L-101.18,133.67L-74.06,124.52L-67.59,122.26L-33.59,106.08L-27.12,101.32L-20.24,97.16L-13.36,91.71L-6.88,84.07L0,79.3L6.88,73.02L13.36,68.78L20.24,66.07L27.12,66.06L33.59,68.56L40.47,75.37L47.35,86.36L53.83,101.61L60.71,125.74L67.59,157.3L74.06,191.24L80.94,220.66L87.82,237.92L94.3,241.27L101.18,233.34L108.06,220.37L114.53,207.05L121.41,195.5L128.29,186.14L134.77,179.09L148.53,168.95L155,164.31L161.88,161.04L168.76,158.93L175.24,159.35L182.12,162.46L189,167.05L195.47,173.67L209.23,185.02L215.71,187.64L222.59,188.56L229.47,186.73L242.82,180.06L249.7,177.13L256.18,177.18L263.06,180.4L269.94,187.06L276.41,196.75L283.29,204.2L290.17,208.62L296.65,209.31L303.53,206.97L310.41,202.37L316.88,195.86L337.12,173.18L344,166.53L350.88,160.36L357.35,156.17L364.23,151.37L371.11,147.57L384.47,140.97L391.35,137.07L397.82,132.84L404.7,129.42L411.58,126.18L418.06,120.95L431.82,112.94L438.29,106.85L472.29,78.81L478.76,74.04L499,57.38L505.88,53.12L512.76,49.68L519.24,49.82L526.12,51.97L533,57.09L539.47,65.65L546.35,77.22L553.23,95.41L559.71,122.64L573.47,199.55L579.94,235.13L586.82,255.87L593.7,258.29L600.18,245.59L607.06,226.12L613.94,208.24L620.41,193.99L634.17,177.08L640.65,171.58L654.41,163.47L660.88,161.94L674.64,163.62L681.12,167.19L708.23,186.26L715.11,187.06L735.35,179.48L741.82,176.93L748.7,178.81L755.58,187.72L768.94,211.2" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" d="M120,411.5H620" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;"/>
+          <path class="ylines-above crisp" d="M120.5,100V411" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(121,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(370.7,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(121,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(370.7,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,404)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,360.5)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,317)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,273.5)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,230)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,186.5)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M120,0h-5" transform="translate(0,143)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,404)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;15</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,360.5)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;10</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,317)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;5</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,273.5)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,230)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">5</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,186.5)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">10</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="110.2" y="8.399999999999999" transform="translate(0,143)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">15</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-ca5082">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M456.9,411L456.9,100" clip-path="url('#clipca5082x')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle">
+          <text class="xtitle" x="370.5" y="488.1125" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">Gait cycle (%)</text>
+        </g>
+        <g class="g-ytitle" transform="translate(12.3154296875,0)">
+          <text class="ytitle" transform="rotate(-90,11.684375000000003,255.5)" x="11.684375000000003" y="255.5" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">ankle flexion (deg)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,456.9,84.5)">
+            <g class="cursor-pointer" transform="translate(426,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,364)">
+            <g class="cursor-pointer" transform="translate(-5,345)">
+              <rect class="bg" x="0.5" y="0.5" width="93" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="47.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">dorsi</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,317L61,360.5" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 40.9px, 43.5px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,357.8999938964844)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,42,165)">
+            <g class="cursor-pointer" transform="translate(-23,146)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">plantar</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M61,230L61,186.5" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 40.9px, 43.5px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(61,189.10000610351562)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="main-svg" transform="translate(800, 1000) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-c52f1a">
+        <g class="clips">
+          <clipPath id="clipc52f1axyplot" class="plotclip">
+            <rect width="484" height="311"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipc52f1ax">
+            <rect x="136" y="0" width="484" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipc52f1ay">
+            <rect x="0" y="100" width="700" height="311"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clipc52f1axy">
+            <rect x="136" y="100" width="484" height="311"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(136,100)" clip-path="url('#clipc52f1axyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter tracebd586c" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-229.59,275.7L-223.38,285.57L-217.18,282.35L-198.56,208.47L-192.36,177.1L-179.95,105.59L-173.74,78.52L-167.54,58.82L-161.33,52.72L-148.92,51.75L-142.72,52.31L-105.49,53.81L-99.28,53.54L-37.23,52.05L-31.03,52.59L-6.21,56.27L0,56.37L6.21,53.46L12.41,52.07L18.62,50L24.82,45.09L31.03,38.01L37.23,34.54L49.64,32.99L55.85,35.64L62.05,43.38L68.26,53.34L80.67,69.74L86.87,79.66L99.28,99.07L105.49,107.14L111.69,114.51L117.9,123.92L124.1,134.57L130.31,143.34L136.51,152.21L142.72,163.8L155.13,190.55L161.33,201L179.95,220.6L186.15,224.15L192.36,228.9L198.56,235.59L204.77,240.96L210.97,248.54L229.59,275.44L235.79,285.02L242,290.66L248.21,294.23L254.41,295.01L260.62,291.67L266.82,287.67L273.03,271.06L304.05,98.89L310.26,76.26L316.46,57.8L322.67,51.15L335.08,51.66L341.28,52.25L359.9,53.87L366.1,54.04L390.92,53.15L397.13,52.82L428.15,51.45L434.36,51.64L452.97,53.64L459.18,54.8L471.59,56.28L477.79,56.32L496.41,52.13L502.62,44.92L508.82,37.14L515.03,33.92L527.44,32.7L533.64,35.97L539.85,43.58L546.05,54.53L570.87,96L577.08,104.94L595.69,122.44L601.9,128.44L657.74,195.85L663.95,206.04L719.79,289.75L726,292.03L738.41,288.31" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter tracebf2ccf" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-229.59,69.25L-210.97,29.4L-204.77,23.43L-186.15,22.06L-179.95,28.47L-155.13,64.96L-148.92,76.63L-136.51,97.27L-130.31,105.48L-93.08,157.24L-86.87,162.77L-49.64,196.45L-43.44,201.47L-18.62,224.33L-12.41,233.16L-6.21,243.06L0,248.39L6.21,251.75L12.41,253.21L18.62,250.34L24.82,251.62L31.03,243.69L37.23,219.12L43.44,188.98L49.64,152.83L55.85,120.1L62.05,96.93L74.46,55.77L80.67,51.49L86.87,52.63L93.08,51.61L130.31,53.77L136.51,53.72L173.74,52.13L179.95,51.85L198.56,52.17L204.77,52.65L235.79,56.3L242,56.24L254.41,53.49L260.62,49.28L273.03,29.58L279.23,22.57L285.44,18.9L291.64,17.47L297.85,16.56L304.05,20.41L310.26,30.03L316.46,37.34L322.67,45.23L328.87,54.93L335.08,64.18L341.28,75.56L347.49,85.54L353.69,92.06L359.9,97.55L366.1,104.41L372.31,110.39L378.51,117.72L384.72,127.51L390.92,133.69L409.54,151.82L415.74,159.76L421.95,169.52L428.15,176.84L452.97,211.14L459.18,221.68L477.79,248.45L484,254.41L490.21,255.84L496.41,253.67L502.62,248.4L508.82,233.41L515.03,208.97L521.23,178.76L533.64,118.3L539.85,92.69L546.05,68.27L552.26,53.05L558.46,50.19L564.67,50.69L632.92,53.04L639.13,52.67L682.56,52.94L688.77,53.99L713.59,56.56L719.79,54.84L732.21,51.42L738.41,43.44" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter traced56ee1" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-229.59,276.11L-223.38,285.89L-217.18,282.57L-198.56,208.53L-192.36,177.12L-179.95,105.57L-173.74,78.49L-167.54,58.77L-161.33,52.64L-148.92,51.66L-142.72,52.23L-105.49,53.8L-99.28,53.52L-43.44,51.67L-37.23,52.07L-18.62,54.69L-12.41,55.7L0,56.43L6.21,53.51L18.62,50.07L24.82,45.21L31.03,38.14L37.23,34.65L49.64,33.06L55.85,35.71L62.05,43.45L68.26,53.42L80.67,69.86L86.87,79.8L99.28,99.22L105.49,107.28L111.69,114.65L117.9,124.07L124.1,134.74L130.31,143.53L136.51,152.41L142.72,164.01L155.13,190.79L161.33,201.26L179.95,220.9L186.15,224.45L192.36,229.21L198.56,235.9L204.77,241.27L210.97,248.87L229.59,275.87L235.79,285.49L242,291.14L248.21,294.7L254.41,295.45L260.62,292.06L266.82,287.98L273.03,271.25L304.05,98.87L310.26,76.22L316.46,57.74L322.67,51.07L335.08,51.56L341.28,52.17L359.9,53.84L366.1,54.02L390.92,53.13L397.13,52.8L428.15,51.46L434.36,51.66L452.97,53.68L459.18,54.82L471.59,56.33L477.79,56.37L496.41,52.19L502.62,45.02L508.82,37.25L515.03,34.02L527.44,32.76L533.64,36.03L539.85,43.63L546.05,54.58L570.87,96.09L577.08,105.03L595.69,122.56L601.9,128.58L657.74,196.18L663.95,206.39L694.97,258.13L701.18,268.59L726,292.54L732.21,292.71L738.41,288.66" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace1c6fc0" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-229.59,69.27L-210.97,29.61L-204.77,23.69L-186.15,22.24L-179.95,28.6L-155.13,65.09L-148.92,76.78L-136.51,97.45L-130.31,105.68L-93.08,157.78L-86.87,163.37L-49.64,197.51L-43.44,202.59L-18.62,225.7L-12.41,234.55L-6.21,244.44L0,249.73L6.21,253.03L12.41,254.38L18.62,251.33L24.82,252.41L31.03,244.18L37.23,219.24L43.44,188.88L49.64,152.65L55.85,119.93L62.05,96.81L74.46,55.71L80.67,51.41L86.87,52.54L93.08,51.51L130.31,53.75L136.51,53.7L173.74,52.16L179.95,51.9L198.56,52.19L204.77,52.72L235.79,56.31L242,56.26L254.41,53.51L260.62,49.33L273.03,29.81L279.23,22.8L285.44,19.14L291.64,17.68L297.85,16.73L304.05,20.53L310.26,30.12L316.46,37.42L322.67,45.31L328.87,55.02L335.08,64.26L341.28,75.67L347.49,85.7L353.69,92.24L359.9,97.75L366.1,104.65L372.31,110.66L378.51,118.04L384.72,127.89L390.92,134.1L409.54,152.32L415.74,160.31L421.95,170.15L428.15,177.51L452.97,212.12L459.18,222.8L477.79,249.8L484,255.77L490.21,257.1L496.41,254.76L502.62,249.24L508.82,233.91L515.03,209.12L521.23,178.67L533.64,118.15L539.85,92.59L546.05,68.2L552.26,52.99L558.46,50.09L564.67,50.58L632.92,53.03L639.13,52.66L682.56,53L688.77,53.94L713.59,56.61L719.79,54.87L732.21,51.41L738.41,43.54" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" d="M135,411.5H620" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;"/>
+          <path class="ylines-above crisp" d="M135.5,100V411" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(136,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(378,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(136,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(378,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,379.75)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,342.31)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,304.87)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,267.44)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,230)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,192.56)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,155.13)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,117.69)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,379.75)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;120</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,342.31)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;100</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,304.87)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;80</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,267.44)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;60</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,230)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;40</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,192.56)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;20</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,155.13)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,117.69)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">20</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-c52f1a">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M460.99,411L460.99,100" clip-path="url('#clipc52f1ax')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle">
+          <text class="xtitle" x="378" y="488.1125" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">Gait cycle (%)</text>
+        </g>
+        <g class="g-ytitle" transform="translate(11.7216796875,0)">
+          <text class="ytitle" transform="rotate(-90,12.278125000000003,255.5)" x="12.278125000000003" y="255.5" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">ankle flex. moment (N.m)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,460.99,84.5)">
+            <g class="cursor-pointer" transform="translate(430,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,57,314.44)">
+            <g class="cursor-pointer" transform="translate(10,295)">
+              <rect class="bg" x="0.5" y="0.5" width="93" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="47.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">dorsi</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M76,267.44L76,379.75" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 109.71px, 112.31px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(76,377.1499938964844)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,57,165)">
+            <g class="cursor-pointer" transform="translate(-8,146)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">plantar</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M76,230L76,117.69" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 109.71px, 112.31px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(76,120.29000091552734)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="main-svg" transform="translate(1500, 1000) scale(1 1) ">
+      <rect x="0" y="0" width="700" height="500" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <defs id="defs-1f1a80">
+        <g class="clips">
+          <clipPath id="clip1f1a80xyplot" class="plotclip">
+            <rect width="484" height="311"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip1f1a80x">
+            <rect x="136" y="0" width="484" height="500"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip1f1a80y">
+            <rect x="0" y="100" width="700" height="311"/>
+          </clipPath>
+          <clipPath class="axesclip" id="clip1f1a80xy">
+            <rect x="136" y="100" width="484" height="311"/>
+          </clipPath>
+        </g>
+        <g class="gradients"/>
+      </defs>
+      <g class="bglayer"/>
+      <g class="layer-below">
+        <g class="imagelayer"/>
+        <g class="shapelayer"/>
+      </g>
+      <g class="cartesianlayer">
+        <g class="subplot xy">
+          <g class="layer-subplot">
+            <g class="shapelayer"/>
+            <g class="imagelayer"/>
+          </g>
+          <g class="gridlayer">
+            <g class="x"/>
+            <g class="y"/>
+          </g>
+          <g class="zerolinelayer"/>
+          <path class="xlines-below"/>
+          <path class="ylines-below"/>
+          <g class="overlines-below"/>
+          <g class="xaxislayer-below"/>
+          <g class="yaxislayer-below"/>
+          <g class="overaxes-below"/>
+          <g class="plot" transform="translate(136,100)" clip-path="url('#clip1f1a80xyplot')">
+            <g class="scatterlayer mlayer">
+              <g class="trace scatter traced1545e" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-234.19,288.5L-224.83,294.66L-224.44,294.43L-218.58,284.03L-218.19,283.05L-194.77,205.8L-194.38,204.1L-177.6,143.63L-177.21,142.64L-168.23,128.55L-167.84,128.42L-150.66,127.77L-150.27,127.79L-100.7,128.73L-100.31,128.72L-33.96,128.23L-33.57,128.26L-2.73,131.06L-2.34,131.02L-1.17,130.81L-0.78,129.85L0.39,129.43L0.78,129.31L14.44,125.89L14.83,125.69L19.91,122.34L20.3,122.01L29.66,114.38L30.05,114.19L33.96,113.09L34.35,113.02L48.01,111.59L48.4,111.64L52.69,113.14L53.08,113.38L56.99,116.42L57.38,116.8L64.4,124.45L64.79,124.87L80.41,140.68L80.8,141.14L101.09,162.83L101.48,163.17L114.36,174.52L114.75,174.96L126.46,187.41L126.85,187.78L134.66,195.78L135.05,196.28L144.42,209.45L144.81,210.05L156.91,227.31L157.3,227.67L163.55,232.46L163.94,232.75L178.38,242.62L178.77,242.76L188.53,247.21L188.92,247.47L208.43,263.07L208.82,263.52L215.85,270.76L216.24,271.11L228.73,283.76L229.12,284.17L234.97,289.16L235.36,289.35L240.83,291.42L241.22,291.48L249.42,292.74L249.81,292.74L252.93,291.91L253.32,291.74L260.35,288.65L260.74,288.45L265.03,286.16L265.42,285.84L267.76,282.71L268.15,281.98L271.66,272.82L272.05,271.51L291.57,198.69L291.96,197.09L302.11,159.39L302.5,158.31L309.53,141.48L309.92,140.62L315.77,129.77L316.16,129.31L318.89,127.24L319.28,127.11L322.41,127.23L322.8,127.39L323.58,127.32L323.97,126.95L329.04,127.18L329.43,127.2L374.32,129.2L374.71,129.19L437.16,127.73L437.55,127.75L454.73,129.36L455.12,129.41L472.68,130.95L473.07,130.95L481.27,130.47L481.66,130.4L495.32,127.15L495.71,126.9L500.39,122.48L500.78,122.02L509.37,113.79L509.76,113.59L516.01,111.57L516.4,111.47L528.89,110.25L529.28,110.34L535.52,113.04L535.91,113.3L542.94,120.39L543.33,120.86L584.31,166.75L584.7,166.98L640.52,206.55L640.91,206.92L681.11,249.63L681.5,250.16L715.46,287.74L715.85,288.05L727.56,291.94L727.95,291.98L740.05,287.05L740.44,286.5L741.22,285.24L741.22,285.24" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace28bbec" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-234.19,138.39L-217.41,112.34L-217.02,111.89L-205.31,105.25L-204.92,105.21L-189.31,106.48L-188.92,106.78L-173.3,122.18L-172.91,122.56L-154.18,144.73L-153.79,145.3L-138.56,161.49L-138.17,161.84L-117.1,183.01L-116.71,183.44L-97.58,200.3L-97.19,200.56L-60.5,222.2L-60.11,222.48L-22.64,247.09L-22.25,247.33L-17.56,251.62L-17.17,252.06L-8.59,260.3L-8.2,260.52L-4.29,262.04L-3.9,262.16L4.68,264.31L5.07,264.32L8.59,264.22L8.98,264.07L16.39,261.99L16.78,261.99L23.42,262.76L23.81,262.58L26.15,260.02L26.54,259.32L30.05,251.45L30.45,250.3L38.25,226.31L38.64,224.95L44.11,204.13L44.5,202.53L53.08,171.66L53.47,170.54L58.16,158.98L58.55,158.15L65.96,140.51L66.35,139.56L71.43,129.4L71.82,128.93L74.55,127.08L74.94,126.99L78.06,127.37L78.45,127.49L83.14,128.83L83.53,128.1L84.31,127.01L84.7,127.2L85.09,127.2L94.46,127.69L94.85,127.72L133.49,129.03L133.88,129.02L160.81,128.27L161.2,128.25L195.94,127.91L196.33,127.93L218.19,129.79L218.58,129.83L236.93,130.97L237.32,130.97L243.95,130.27L244.34,130.15L251.76,128.88L252.15,128.77L256.05,126.83L256.44,126.54L260.74,122.05L261.13,121.54L275.18,103.66L275.57,103.34L281.42,99.27L281.81,99.05L286.5,97.08L286.89,96.98L298.21,94.83L298.6,94.95L302.11,96.88L302.5,97.23L322.8,117.75L323.19,118.22L347,147.29L347.39,147.64L352.85,151.45L353.24,151.71L374.32,166.42L374.71,166.78L380.95,173.71L381.35,174.15L387.2,179.28L387.59,179.5L401.64,188.96L402.03,189.24L413.74,197.92L414.13,198.34L425.06,209.29L425.45,209.61L433.26,217.1L433.65,217.57L442.24,226.39L442.63,226.72L452.77,237.13L453.16,237.62L463.7,249.2L464.09,249.54L476.19,260.31L476.58,260.64L482.05,264L482.44,264.2L487.51,265.17L487.9,265.19L491.81,264.58L492.2,264.52L500.39,261.36L500.78,261.02L504.69,256.7L505.08,256.08L508.98,248.48L509.37,247.63L515.23,231.85L515.62,230.72L526.55,194.04L526.94,192.79L544.89,140.62L545.28,139.64L551.53,128.51L551.92,128.14L556.99,126.22L557.38,126.24L622.56,128.99L622.95,128.98L698.68,130.44L699.07,130.48L727.56,128.93L727.95,128.85L738.1,121.25L738.49,120.75L741.22,117.17L741.22,117.17" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace0ccb58" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-234.19,288.79L-224.83,294.83L-224.44,294.59L-218.58,284.12L-218.19,283.13L-195.16,207.3L-194.77,205.68L-176.43,140.58L-176.04,139.63L-167.45,128.33L-167.06,128.26L-140.13,128.47L-139.74,128.5L-100.31,128.72L-99.92,128.71L-33.96,128.23L-33.57,128.27L-5.07,131.04L-4.68,131.04L-1.17,130.79L-0.78,129.83L0.39,129.41L0.78,129.29L14.44,125.93L14.83,125.74L20.3,122.14L20.69,121.79L30.05,114.33L30.45,114.13L35.13,113.01L35.52,112.98L49.18,111.59L49.57,111.67L52.69,112.79L53.08,113.01L57.38,116.28L57.77,116.63L79.63,138.81L80.02,139.31L90.95,151.85L91.34,152.3L98.75,160.27L99.14,160.62L106.56,166.67L106.95,166.99L115.15,175.18L115.54,175.65L126.07,186.97L126.46,187.32L135.44,196.75L135.83,197.24L145.2,210.68L145.59,211.27L156.52,227.08L156.91,227.48L163.94,233.01L164.33,233.31L179.55,243.59L179.94,243.77L188.53,247.79L188.92,248.06L208.82,264.09L209.21,264.54L217.8,272.98L218.19,273.31L229.9,285.33L230.29,285.74L234.97,289.51L235.36,289.7L240.44,291.68L240.83,291.77L250.59,293.02L250.98,292.89L256.05,290.91L256.44,290.71L260.74,288.84L261.13,288.69L264.64,286.87L265.03,286.53L267.37,283.68L267.76,283.06L270.49,276.62L270.88,275.46L274.4,263.09L274.79,261.54L301.72,160.57L302.11,159.41L308.35,144.11L308.75,143.27L314.99,130.88L315.38,130.3L318.11,127.63L318.5,127.42L321.24,127.02L321.63,127.09L323.97,126.95L324.36,126.91L329.43,127.2L329.82,127.22L374.32,129.2L374.71,129.19L437.16,127.73L437.55,127.76L455.12,129.39L455.51,129.44L472.68,130.92L473.07,130.92L481.27,130.45L481.66,130.37L494.93,127.42L495.32,127.18L500,122.99L500.39,122.55L508.59,114.33L508.98,114.07L515.62,111.63L516.01,111.54L528.11,109.8L528.5,109.84L535.52,112.44L535.91,112.67L542.94,119.49L543.33,119.95L585.48,166.94L585.87,167.23L617.1,189.21L617.49,189.54L661.21,227.86L661.6,228.34L717.02,289.17L717.41,289.39L729.9,292.17L730.29,292.18L740.83,286.22L741.22,285.59" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+              <g class="trace scatter trace47e619" style="stroke-miterlimit: 2; opacity: 1;">
+                <g class="fills"/>
+                <g class="errorbars"/>
+                <g class="lines">
+                  <path class="js-line" d="M-234.19,138.4L-217.41,112.49L-217.02,112.04L-205.31,105.4L-204.92,105.35L-188.92,106.64L-188.53,106.92L-171.74,123.35L-171.35,123.77L-152.23,147.19L-151.84,147.75L-138.95,160.99L-138.56,161.35L-110.07,190.56L-109.68,190.95L-97.19,200.87L-96.8,201.09L-60.5,223.02L-60.11,223.3L-30.84,243.5L-30.45,243.73L-20.3,249.94L-19.91,250.29L-7.81,261.78L-7.42,262L-1.56,263.71L-1.17,263.79L3.9,265.05L4.29,265.16L8.2,265.18L8.59,265.07L16.39,262.62L16.78,262.6L23.42,263.14L23.81,262.95L26.15,260.28L26.54,259.56L30.05,251.51L30.45,250.34L38.64,224.69L39.03,223.38L44.5,202.21L44.89,200.69L52.69,172.48L53.08,171.38L58.55,157.95L58.94,157.12L71.82,128.92L72.21,128.52L74.94,126.99L75.33,126.95L78.45,127.49L78.85,127.62L83.14,128.83L83.53,128.1L84.31,127.02L84.7,127.21L85.09,127.21L94.46,127.68L94.85,127.71L133.49,129.03L133.88,129.02L160.81,128.28L161.2,128.26L196.72,127.95L197.11,127.97L219.75,129.87L220.14,129.91L237.32,130.93L237.71,130.93L243.95,130.24L244.34,130.12L251.76,128.85L252.15,128.74L256.05,126.82L256.44,126.52L260.74,122.1L261.13,121.6L275.18,103.9L275.57,103.58L281.42,99.51L281.81,99.3L286.5,97.31L286.89,97.21L297.82,94.84L298.21,94.89L301.72,96.56L302.11,96.86L307.96,102.94L308.35,103.36L313.43,107.83L313.82,108.13L320.45,114.59L320.85,115.06L335.68,133.26L336.07,133.82L345.44,145.88L345.83,146.28L352.07,151.08L352.46,151.3L363,158.62L363.39,158.95L373.54,166.06L373.93,166.36L378.61,171.24L379,171.72L385.64,178.54L386.03,178.83L400.86,188.95L401.25,189.19L412.96,197.73L413.35,198.12L425.45,210.4L425.84,210.73L431.31,215.74L431.7,216.18L443.8,228.72L444.19,229.03L451.21,236.32L451.6,236.78L466.83,253.2L467.22,253.54L481.66,265.04L482.05,265.24L485.56,266.23L485.95,266.31L489.46,266.15L489.85,266.12L494.54,264.84L494.93,264.65L501.17,261.44L501.56,261.14L504.69,257.26L505.08,256.62L509.37,247.93L509.76,247.04L517.96,223.17L518.35,221.79L535.13,167.29L535.52,166.18L549.18,131.52L549.57,130.89L554.65,126.55L555.04,126.44L561.28,126.99L561.67,127.18L590.56,128.47L590.95,128.5L637.79,128.39L638.18,128.37L692.43,129.55L692.82,129.6L725.22,129.26L725.61,129.2L736.54,123.15L736.93,122.69L741.22,117.31L741.22,117.31" style="vector-effect: non-scaling-stroke; fill: none; stroke: rgb(128, 128, 128); stroke-opacity: 1; stroke-width: 2px; opacity: 1; stroke-dasharray: 9px, 9px;"/>
+                </g>
+                <g class="points"/>
+                <g class="text"/>
+              </g>
+            </g>
+          </g>
+          <g class="overplot"/>
+          <path class="xlines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M135,411.5H620"/>
+          <path class="ylines-above crisp" style="fill: none; stroke-width: 1px; stroke: rgb(36, 36, 36); stroke-opacity: 1;" d="M135.5,100V411"/>
+          <g class="overlines-above"/>
+          <g class="xaxislayer-above">
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(136,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(378,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="xtick ticks crisp" d="M0,412v5" transform="translate(620,0)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(136,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(378,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+            <g class="xtick">
+              <text text-anchor="middle" x="0" y="445.8" transform="translate(620,0)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">100</text>
+            </g>
+          </g>
+          <g class="yaxislayer-above">
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,363.66)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,296.83000000000004)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,230)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <path class="ytick ticks crisp" d="M135,0h-5" transform="translate(0,163.17000000000002)" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; stroke-width: 1px;"/>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,363.66)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;100</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,296.83000000000004)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">&#8722;50</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,230)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">0</text>
+            </g>
+            <g class="ytick">
+              <text text-anchor="end" x="125.2" y="8.399999999999999" transform="translate(0,163.17000000000002)" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">50</text>
+            </g>
+          </g>
+          <g class="overaxes-above"/>
+        </g>
+      </g>
+      <g class="polarlayer"/>
+      <g class="ternarylayer"/>
+      <g class="geolayer"/>
+      <g class="funnelarealayer"/>
+      <g class="pielayer"/>
+      <g class="treemaplayer"/>
+      <g class="sunburstlayer"/>
+      <g class="glimages"/>
+      <defs id="topdefs-1f1a80">
+        <g class="clips"/>
+      </defs>
+      <g class="layer-above">
+        <g class="imagelayer"/>
+        <g class="shapelayer">
+          <path data-index="0" fill-rule="evenodd" d="M459.97,411L459.97,100" clip-path="url('#clip1f1a80x')" style="opacity: 0.3; stroke: rgb(255, 0, 0); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1; stroke-dasharray: 9px, 9px; stroke-width: 2px;"/>
+        </g>
+      </g>
+      <g class="infolayer">
+        <g class="g-gtitle">
+          <text class="gtitle" x="350" y="25" text-anchor="middle" dy="0.7em" style="font-family: 'Courier New', monospace; font-size: 34px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">
+            <tspan style="font-weight:bold">
+              <tspan style="font-weight:bold"/>
+            </tspan>
+          </text>
+        </g>
+        <g class="g-xtitle">
+          <text class="xtitle" x="378" y="488.1125" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">Gait cycle (%)</text>
+        </g>
+        <g class="g-ytitle" transform="translate(11.7216796875,0)">
+          <text class="ytitle" transform="rotate(-90,12.278125000000003,255.5)" x="12.278125000000003" y="255.5" text-anchor="middle" style="font-family: 'Courier New', monospace; font-size: 29px; fill: rgb(36, 36, 36); opacity: 1; font-weight: normal; white-space: pre;">ankle flex. moment (N.m)</text>
+        </g>
+        <g class="annotation" data-index="0" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(0,459.97,84.5)">
+            <g class="cursor-pointer" transform="translate(429,69)">
+              <rect class="bg" x="0.5" y="0.5" width="61" height="30" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="30.8125" y="22" style="font-family: 'Courier New', monospace; font-size: 24px; fill: rgb(36, 36, 36); fill-opacity: 1; white-space: pre;">r_FO</text>
+            </g>
+          </g>
+        </g>
+        <g class="annotation" data-index="1" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,57,343.83000000000004)">
+            <g class="cursor-pointer" transform="translate(10,325)">
+              <rect class="bg" x="0.5" y="0.5" width="93" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="47.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">dorsi</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M76,296.83000000000004L76,363.66" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 64.23px, 66.83px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(76,361.05999755859375)rotate(90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+        <g class="annotation" data-index="2" style="opacity: 1;">
+          <g class="annotation-text-g" transform="rotate(-90,57,165)">
+            <g class="cursor-pointer" transform="translate(-8,146)">
+              <rect class="bg" x="0.5" y="0.5" width="129" height="37" style="stroke-width: 1px; stroke: rgb(0, 0, 0); stroke-opacity: 0; fill: rgb(0, 0, 0); fill-opacity: 0;"/>
+              <text class="annotation-text" text-anchor="middle" x="65.015625" y="27" style="font-family: 'Courier New', monospace; font-size: 30px; fill: rgb(0, 0, 0); fill-opacity: 1; white-space: pre;">plantar</text>
+            </g>
+          </g>
+          <g class="annotation-arrow-g" style="opacity: 1;">
+            <path d="M76,230L76,163.17000000000002" style="stroke-width: 2px; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-dasharray: 0px, 0px, 64.23px, 66.83px;"/>
+            <path d="M-3.7,-2.5V2.5L1.3,0Z" transform="translate(76,165.76998901367188)rotate(-90)scale(2)" style="fill: rgb(0, 0, 0); stroke-width: 0;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <text x="300" y="30" font-size="40" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">Inverse kinematics</text>
+    <text x="1000" y="30" font-size="40" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">Inverse dynamics</text>
+    <text x="1500" y="30" font-size="40" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">Residual reduction algorithm</text>
+    <text x="-150" y="-20" font-size="40" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black" transform=" rotate(-90.000000 100.000000 0.000000)">Hip</text>
+    <text x="-700" y="-20" font-size="40" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black" transform=" rotate(-90.000000 100.000000 0.000000)">Knee</text>
+    <text x="-1200" y="-20" font-size="40" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black" transform=" rotate(-90.000000 100.000000 0.000000)">Ankle</text>
+  </g>
+</svg>
