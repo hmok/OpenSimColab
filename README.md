@@ -31,9 +31,13 @@ Please follow the following steps to start running OpenSim simulations in < 1 mi
 Go to this website: https://colab.research.google.com/
 
 a)	Upload the following file from Supplementary Material 2: “OpenColab.ipynb“ or from this link https://github.com/hmok/OpenColab/blob/main/OpenColab.ipynb
+
 b)	Wait till the file is loaded. 
+
 c)	Press Ctrl+F9 or Runtime ---> Run all (setup finished in < 1 min)
+
 d)	No action needed by the user: OpenSim will be installed (5-7 min)
+
 e)	The simulations will generate the results of this paper.
 
 
