@@ -29,6 +29,10 @@ https://github.com/hmok/OpenColab
 
 If you are interested in contributing, please feel free to reach out at 𝐦𝐨𝐤𝐡𝐭𝐚𝐫𝐳𝐚𝐝𝐞𝐡 𝐃𝐎𝐓 𝐡𝐨𝐬𝐬𝐞𝐢𝐧 𝐀𝐓 𝐆𝐦𝐚𝐢𝐥 𝐃𝐎𝐓 𝐜𝐨𝐦.
 
+Please cite the following:
+
+Mokhtarzadeh, Hossein, Fangwei Jiang, Shengzhe Zhao, and Fatemeh Malekipour. 2021. “Opencolab Project: Opensim in Google Colaboratory to Explore Biomechanics on the Web.” engrXiv. September 30. doi:10.31224/osf.io/f8a3h.
+
 <img alt="" src="https://github.com/hmok/OpenColab/blob/main/Fig1_6Jun21.png?raw=true"/>
 
 
