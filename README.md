@@ -15,7 +15,7 @@ In this project, we use Google Cloud (esp. Google Colab notebooks) and 𝐢𝐧�
 
 That is it! Enjoy OpenColabing!
 
-We also created several 𝐯𝐢𝐝𝐞𝐨 𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬 to learn Google Colab (basic python programming on the web) and OpenColab (𝐎𝐩𝐞𝐧𝐒𝐢𝐦 + 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐨𝐥𝐚𝐛): www.tinyurl.com/xukhmnez   
+We also created several 𝐯𝐢𝐝𝐞𝐨 𝐭𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬 (e.g. https://youtu.be/iEjd7OSOitg) to learn Google Colab (basic python programming on the web) and OpenColab (𝐎𝐩𝐞𝐧𝐒𝐢𝐦 + 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐨𝐥𝐚𝐛): www.tinyurl.com/xukhmnez   
 
 
 𝐇𝐨𝐰 𝐎𝐩𝐞𝐧𝐂𝐨𝐥𝐚𝐛 𝐰𝐨𝐫𝐤𝐬 𝐚𝐧𝐝 𝐡𝐨𝐰 𝐝𝐨 𝐰𝐞 𝐯𝐚𝐥𝐢𝐝𝐚𝐭𝐞 𝐢𝐭?
