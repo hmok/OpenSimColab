@@ -1,4 +1,4 @@
-# OpenColab (OpenSim in Google Colab)
+# OpenSimColab (OpenSim in Google Colab)
 Biomechanical modeling in Google Colab using OpenSim
 
 This project aims to make the life of a researcher a bit easier in dealing with Bio-mechanical models. OpenSim has got 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬 including C++, Python, and Matlab. Normally, the user installs them on their PC. 
