@@ -43,8 +43,9 @@ e)	The simulations will generate the results of this paper.
 
 If you are interested in contributing, please feel free to reach out at 𝐦𝐨𝐤𝐡𝐭𝐚𝐫𝐳𝐚𝐝𝐞𝐡 𝐃𝐎𝐓 𝐡𝐨𝐬𝐬𝐞𝐢𝐧 𝐀𝐓 𝐆𝐦𝐚𝐢𝐥 𝐃𝐎𝐓 𝐜𝐨𝐦.
 
-Please cite the following:
-To cite this article: Hossein Mokhtarzadeh, Fangwei Jiang, Shengzhe Zhao & Fatemeh
+**To cite this article:**
+
+Hossein Mokhtarzadeh, Fangwei Jiang, Shengzhe Zhao & Fatemeh
 Malekipour (2022): OpenColab project: OpenSim in Google colaboratory to explore biomechanics
 on the web, Computer Methods in Biomechanics and Biomedical Engineering, DOI:
 10.1080/10255842.2022.2104607
