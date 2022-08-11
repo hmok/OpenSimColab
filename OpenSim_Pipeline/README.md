@@ -47,7 +47,7 @@ Pyosim: https://github.com/pyomeca/pyosim
 
 ## File Structure Requirements:
 ### *Input File Structure*:
-<img src="https://raw.githubusercontent.com/SoniaSong826/CAREN_OpenSim_Pipeline/master/images/input_structure.png" width="480">
+<img src="https://raw.githubusercontent.com/hmok/OpenSimColab/main/OpenSim_Pipeline/images/input_structure.png" width="480">
 
 Need to specify three input path A,B and C, and notice that:
 
@@ -56,7 +56,7 @@ Need to specify three input path A,B and C, and notice that:
 
 ### *Output File Structure*:
 After the successful execution, you will get the output files in the following structure:
-<img src="https://raw.githubusercontent.com/SoniaSong826/CAREN_OpenSim_Pipeline/master/images/output_structure.png" width="480">
+<img src="https://raw.githubusercontent.com/hmok/OpenSimColab/main/OpenSim_Pipeline/images/output_structure.png" width="480">
 
 ## Usage:
 Modify the three paths in the last code block:
