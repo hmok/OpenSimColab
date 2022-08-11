@@ -36,6 +36,7 @@ OpenSim:  https://github.com/opensim-org/opensim-core
 Pyosim: https://github.com/pyomeca/pyosim
 
 ![image of pipeline structure](https://github.com/SoniaSong826/CAREN_OpenSim_Pipeline/blob/master/images/image%20of%20pipeline%20structure.png)
+![image of pipeline structure](https://raw.githubusercontent.com/hmok/OpenSimColab/main/OpenSim_Pipeline/images/image%20of%20pipeline%20structure.png)
 
 ## Package Requirements:
 
