@@ -1,0 +1,7 @@
+This is the draft one for the data collected in UoM CAREN so to do all the process in OpenSim basically it is the new version of the old one but lots need to be done to be easily usable like the following
+
+1. Eaily upload c3d and get files in model
+2. Model to choose and eaily Scale
+3. xml files to be easily loaded for each steps
+4. done for 1 or multiple c3d files
+5. get results though now it is fine using pgwalker in python and colab
